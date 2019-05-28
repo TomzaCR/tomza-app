@@ -48,5 +48,9 @@
   "clave": {
     "dataSource": "tomza",
     "public": true
+  },
+  "trachk": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
