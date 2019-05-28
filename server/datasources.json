@@ -1,21 +1,12 @@
 {
-  "cmi": {
-    "host": "localhost",
-    "port": 5432,
-    "url": "",
-    "database": "SearMedica",
-    "password": "postgres",
-    "name": "cmi",
-    "user": "postgres",
-    "connector": "postgresql"
-  },
   "tomza": {
-    "host": "localhost",
+    "host": "us-cdbr-iron-east-02.cleardb.net",
     "url": "",
-    "database": "tomzabd",
-    "password": "",
+    "database": "heroku_a8c536b4c070ebb",
+    "password": "dd66ece3",
     "name": "tomza",
-    "user": "root",
+    "user": "bf92f2dd87ceec",
     "connector": "mysql"
   }
 }
+
