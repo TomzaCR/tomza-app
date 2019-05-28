@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ],
+    "mixins": [
+      "loopback/common/mixins",
+      "loopback/server/mixins",
+      "../common/mixins",
+      "./mixins"
+    ]
+  },
+  "facturas": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "cliente": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "productos": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "rutas": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "usuarios": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "facqueuet": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "billete": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "empresas": {
+    "dataSource": "tomza",
+    "public": true
+  }
+}

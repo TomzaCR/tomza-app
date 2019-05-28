@@ -1,0 +1,59 @@
+{
+  "name": "billete",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "diez": {
+      "type": "number"
+    },
+    "veinticinco": {
+      "type": "number"
+    },
+    "cincuenta": {
+      "type": "number"
+    },
+    "cien": {
+      "type": "number"
+    },
+    "quinientos": {
+      "type": "number"
+    },
+    "cincuentaMil": {
+      "type": "number"
+    },
+    "veinteMil": {
+      "type": "number"
+    },
+    "diezMil": {
+      "type": "number"
+    },
+    "cincoMil": {
+      "type": "number"
+    },
+    "dosMil": {
+      "type": "number"
+    },
+    "mil": {
+      "type": "number"
+    },
+    "dolares": {
+      "type": "number"
+    },
+    "vale": {
+      "type": "number"
+    },
+    "ruta": {
+      "type": "number"
+    },
+    "fecha": {
+      "type": "date"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

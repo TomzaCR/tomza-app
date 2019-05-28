@@ -1,0 +1,33 @@
+{
+  "name": "rutas",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "unidad_negocio": {
+      "type": "string"
+    },
+    "cedi": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "string"
+    },
+    "consecutivo": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

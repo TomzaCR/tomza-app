@@ -1,0 +1,824 @@
+
+@media (min-width: 600px) {
+  .panel.panel-default{
+    width: 430px;
+    align-items: center;
+  }
+
+}
+
+@media (min-width: 600px) {
+  #divPrincipal{
+    width: 400px;
+    align-items: center;
+  }
+}
+
+.esconderBarraScroll{
+     overflow-y: hidden !important;
+}
+.mantArrow{
+  margin-left: 3px;
+
+}
+.margin-top-eye-view{
+
+  padding-top: 31%;
+}
+.eyeSelect{
+  border: 1px solid #ccc;
+
+  overflow: hidden;
+  margin-left: 2%;
+  width: 34vh;
+  background-color: transparent !important;
+  height: 5vh;
+  padding-top: 1px;
+  color: white;
+  border: 1px #2e3346 solid;
+
+}
+.eyeGeneralOpciones{
+    background: #131621;
+    font-size: 16px;
+    color: #7d8292;
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    padding-left: 6%;
+    align-items: center;
+    border-top: 1px #2e3346 solid;
+}
+.eyeTabs{
+  background-color: #131621;
+
+}
+.marcoEditarInsertar{
+  border: 1px #c3cfc9;
+  width: 100%;
+  height: 100%;
+  border-style: solid;
+}
+.divInput{
+  padding-left: 10px;
+  padding-top: 15px;
+  padding-right: 10px;
+  width: 100%;
+}
+.divButton{
+  display: block;
+  margin: auto;
+  width: 40%;
+  margin-top: 20px;
+}
+.textoInput{
+  font-size: 20px !important;
+  border-bottom: 1px black solid !important;
+  width: 100%;
+}
+.divLabels{
+  padding-left: 10px;
+  padding-top: 15px;
+  padding-right: 10px;
+  margin-bottom: 0px;
+  width: 100%;
+}
+.divOpciones{
+  padding-right: 10px;
+}
+.divCheckBox{
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 0px;
+  width: 100%;
+}
+.textoLabels{
+  font-size: 20px !important;
+}
+
+
+html, body {
+  min-height: 100vh;
+}
+
+div.LoginClase{
+  background: url("../img/fondo.jpg")  no-repeat center center;
+  background-size: cover;
+  transition:0.9s linear all;
+  min-height: 100vh;
+}
+.Clase{
+  background: url("../img/fondo.jpg")  no-repeat center center;
+  background-size: cover;
+  transition:0.9s linear all;
+  min-height: 100vh;
+}
+
+.alignTopCheckbox{
+  text-align: left;
+  top: 1.7vh;
+  position: absolute;
+}
+
+.alignTop{
+  text-align: left;
+  top: 10px;
+  position: absolute;
+}
+
+.font-black{
+  font-size: 15px !important;
+  color: black !important;
+  padding-bottom: 3px;
+}
+.fontIcons{
+  top: 14px;
+  position: absolute;
+  font-size: 11px;
+  color: black;
+}
+.leftSwipe {
+  position: absolute;
+  right: 0px;
+  width: 35px;
+}
+.leftSwipe p{
+  color: grey;
+  font-size: 11px;
+
+}
+.select {
+  position: inherit;
+  margin-top: 10px;
+  position: relative;
+  border: 1px solid #ccc;
+  width: 100%;
+  background-color: #dbf4f5;
+
+}
+.iconoDerecha{
+  position: absolute;
+  right: 14px;
+}
+
+.select select {
+  vertical-align: middle;
+  padding: 5px 8px;
+  width: 100%;
+  border: none;
+  box-shadow: none;
+  background-color: transparent;
+  background-image: none;
+  appearance: none;
+}
+.backgroundDifuminado{
+  background: rgba(255, 255, 255, 0.93);
+}
+.ion-content{
+  margin: 0px 15px 0px;
+}
+
+.buttonsHeader{
+  background: none;
+  border: white;
+  font-size: 16px!important;
+}
+
+
+.iconosHeader{
+  background: none;
+  border: white;
+  font-size: 40px!important;
+  color: white;
+}
+
+
+.verticalLine{
+  background: white;
+  height:100%;
+  width:2px;
+  border:1px white;
+  display:inline;
+  margin:1px
+
+}
+.headerPrincipal{
+  border: none;
+  color: white;
+  background-color: #1f2434 !important;
+  height: 64px;
+  background-image: linear-gradient(0deg, #ddd, #ddd 50%, transparent 50%);
+  background-position: bottom;
+  background-size: 100% 1px;
+  background-repeat: no-repeat;
+}
+
+
+h3{
+  font-family: Helvetica, Arial, sans-serif !important;
+  font-size: 24px !important;
+  padding: 30px 10px 14px 0px;
+}
+
+
+
+#LoginClase{
+  background: url('../img/fondo.jpg')  no-repeat center center;
+  background-size: cover;
+  transition:0.9s linear all;
+  opacity:0;
+}
+
+.button.button-block.button-default{
+  background-color: #2FC0C5;
+  border: 1px solid #21A3A8;
+  border-radius: 3px;
+  font-size: 24px;
+  color: #fff;
+}
+
+.ChecboxLogin{
+  float:right;
+  color: #222;
+  font-size: 14px;
+}
+
+
+#loginError{
+  color: #D85756;
+  border-color: #c70000;
+  font-size: 16px;
+  margin: 5px;
+}
+
+.errorText{
+  color: #D85756;
+  border-color: #c70000;
+  font-size: 16px;
+  margin: 5px;
+}
+
+.successText{
+  color: #06B10B;
+  border-color: #0E0000;
+  font-size: 16px;
+  margin: 5px;
+}
+
+#sinColor {
+  background: rgba(255, 255, 255, 0.93);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+.textoColor{
+  text-align: center;
+  margin-top: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+.labelCenter{
+  margin: 1px;
+  padding: 14px;
+  text-align: center;
+}
+
+.list.list-inset{
+  background-color: rgba(250, 252, 251, 0.8);
+  margin:0px;
+  min-height: 100vh;
+
+}
+input::placeholder {
+  color: #222;
+}
+.labelLinks{
+  cursor: pointer;
+  text-decoration: underline;
+  color: #21A3A8;
+}
+label:hover{
+  color: #198B8F;
+}
+.marginButton {
+    background-color: #2FC0C5;
+    border: 1px solid #21A3A8;
+    border-radius: 3px;
+    font-size: 24px;
+    color: #fff;
+    width: 100%;
+    height: 50px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.marginButton-disable {
+  background-color: #959a9a;
+  border: 1px solid #686C6C;
+  border-radius: 3px;
+  font-size: 24px;
+  color: #fff;
+  width: 100%;
+  height: 50px;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
+
+.columns {
+  columns: 2;
+  width:50%;
+  font-weight: normal;
+}
+
+.panel.panel-default{
+
+  background-color: rgba(250, 252, 251, 0.8);
+  border: 2px solid #C3CFC9;
+  margin-top: 8%;
+
+}
+div.s{
+  text-align: center;
+}
+.button.limpiar{
+  background-color: #B5B0AF;
+  border: 1px solid #494949;
+  border-radius: 3px;
+  font-size: 24px;
+  color: #fff;
+  width: 130px;
+}
+.button.estandar{
+  background-color: #2FC0C5;
+  border: 1px solid #21A3A8;
+  border-radius: 3px;
+  font-size: 24px;
+  color: #fff;
+  width: 132px;
+}
+.btn-group{
+  left: 9%;
+  margin-bottom: 15px;
+}
+.list{
+  width: 100%;
+}
+.headerListItems {
+  display: flex;
+  right: 0;
+  left: 0;
+  z-index: 9;
+  box-sizing: border-box;
+  padding: 5px 10px;
+  width: 100%;
+  height: 44px;
+  border-width: 0;
+  border-style: solid;
+  border-top: 1px solid transparent;
+  border-bottom: 1px solid #ddd;
+  background-color: #1f2434;
+  align-items: center;
+}
+
+
+.searchButton{
+  margin-bottom: 28px;
+  margin-top: 20px;
+  height: 35px;
+  padding-left: 0px;
+  width: 100%;
+  color: #222!important;
+  padding-bottom: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-bottom-width: 1px;
+  font-weight: normal;
+}
+.buttonSwipeEliminar{
+  color: #fff;
+  font-size: x-large;
+  background: #D85756;
+  border: 1px solid #C70000;
+}
+
+.buttonSwipeEditar{
+  color: #fff;
+  font-size: x-large;
+  background: #2FC0C5;;
+  border: 1px solid #C70000;
+}
+
+.checkBox{
+  background: none;
+  border: none;
+  color: rgb(47, 192, 197);
+  font-size: 20px;
+  position: absolute;
+  left: 27px;
+  margin-right: 7px;
+  margin-top: 0PX !important;
+  padding-bottom: 5px;
+}
+
+.headerListItemsTitle{
+  color: #fff;
+  font-size: 20px;
+  font-weight: normal;
+  vertical-align: middle;
+  padding-left: 20px;
+  margin-bottom: 23px;
+  margin-left: 1%;
+}
+.headerListItemButton{
+  background: none;
+  border:none;
+  color: #2FC0C5;
+  font-size: 20px;
+  position: absolute;
+  right: 12px;
+  margin-right: 7px;
+  padding-bottom: 5px;
+
+}
+
+.buttonSwipeHabilitar{
+  color: white;
+  font-size: x-large;
+  background: green;
+  border: 1px solid #C70000;
+}
+#buttons{
+  background-color: #2FC0C5;
+  border: 1px solid #21A3A8;
+  border-radius: 3px;
+  font-size: 24px;
+  color: #fff;
+  height: 55px;
+}
+
+#imagenLogo{
+  width: 100px;
+  height: 100px;
+  align-items: center;
+}
+
+#ChecboxLogin{
+  float:right;
+  color: #222;
+  font-size: 14px;
+}
+#divTitulo{
+  background-color: transparent;
+  border: none;
+  margin-left: 13px;
+}
+
+#divPrincipal{
+  background-color: rgba(250, 252, 251, 0.8);
+  border: 2px solid #C3CFC9;
+  margin-top: 10px;
+  margin-right: 8px;
+  margin-left: 8px;
+}
+.labelCenter{
+  margin: 1px;
+  padding: 14px;
+  text-align: center;
+}
+.item.item-input {
+  padding-top: 0px;
+  background-color: transparent;
+  color: #222;
+  font-size: 20px;
+  border-top: transparent;
+  border-left: transparent;
+  border-right: transparent;
+  border-bottom: 1px solid #222;
+  margin: 13px;
+ font-weight: normal !important;
+}
+
+
+.ButtonOptions {
+  width: 100%;
+  height: 100%;
+  left: 43%;
+  position: fixed;
+}
+
+
+.cuadrobotonm{
+  position: relative;
+  border: 1px solid #1F2434;
+  background: rgba(255,255,255,1);
+  background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(236,236,236,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(236,236,236,1)));
+  background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(236,236,236,1) 100%);
+  background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(236,236,236,1) 100%);
+  background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(236,236,236,1) 100%);
+  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(236,236,236,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ececec', GradientType=0 );
+  width: 40vw;
+  height: 25vh;
+  font-size: 5em;
+}
+
+
+.textocuadrom{
+  background: #1F2434;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: #fff;
+  text-align: center;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.16);
+  font-size: 15px;
+  line-height: 28px;
+  height: 28px;
+}
+
+
+.colorbotonm1{
+  padding: :20px;
+  background: black;
+  color: white;
+  width:100px
+  cursor:pointer;
+  cursor:hand;
+  text-align:center;
+}
+
+.imagenmoob{
+  color: #1F2434;
+  padding-left: 9%;
+}
+
+.section{
+  display: inline-block;
+}
+.section2{
+  display: inline-block;
+}
+.section:hover .imagenmoob {
+  color: #2FC0C5;
+}
+.section:hover .textocuadrom{
+  background: #2FC0C5;
+
+}
+.contenedor123{
+  margin-right: 3px;
+}
+
+
+
+.item-disabled, item-disabled * { opacity: 0.3; pointer-events: none; }
+
+.alignLeftArrow{
+  position: relative;
+}
+
+.details{
+  margin-top: 2px;
+  width: 116%;
+  text-align: justify;
+}
+
+.gridStyle {
+  border: 1px solid rgb(212,212,212);
+  height: 249px;
+}
+.gridCellStyle {
+  border-bottom: 1px solid rgb(212,212,212);
+  width: 100%;
+  height: 49px;
+  margin-left: -10px;
+}
+.gridCellExpandStyle {
+  height: 100px;
+  margin-left: -10px
+}
+
+
+.logoHeaderMenu{
+  padding: 5px 10px 10px 5px;
+  width: 90px;
+  height: 60px;
+}
+
+
+.logoHeader{
+  padding: 5px 10px 10px 0px;
+  width: 23%;
+  height: 92%;
+  left: 39.5%;
+  position: fixed;
+}
+.logoHeader.ion-navicon{
+  font-size: 90px;
+}
+
+
+.navm li a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #2FC0C5;
+
+}
+.navm li ul {
+  display:none;
+}
+
+.navm li a:hover {
+  color: #fff;
+  background-color: black;
+
+}
+.navm li:hover > ul  , .navm li:target > ul {
+display:block;
+background-color: black;
+}
+
+.navm li ul li {
+  position:relative;
+  border-left: none;
+
+}
+.menudesplegable{
+
+  color: #2FC0C5;
+  font-size: 20px;
+  line-height: 46px;
+  text-align: center;
+}
+
+.menudrop{
+background-color: black;
+}
+
+.contentm{
+  background-color: #1F2434;
+  opacity: 0.5;
+}
+.usuariologueadom{
+  margin-left: 2%;
+  width: 96%;
+  align-content: center;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  color: #fff;
+}
+.hop:hover{
+background-color: black;
+}
+.ion-content1{
+  margin: 65px 15px 0px;
+}
+.gridStylemob {
+    border: 1px solid rgb(212,212,212);
+    height: 100px;
+}
+.ion-content-inicio
+{
+  margin: -30px 15px 0px;
+}
+.textoLabelsPopup{
+  font-size: 16px !important;
+}
+.checkBoxPopUp{
+  width: 6% !important;
+}
+
+.alignTopPopup{
+    text-align: left;
+    top: 0px;
+    position: absolute;
+    margin-left: -4px;
+}
+.alignTopPopupMovil{
+  text-align: left;
+  top: 2px;
+  position: absolute;
+  margin-left: 4px;
+}
+
+/*Clases login*/
+.list{
+    padding-left: 1px !important;
+}
+.margenLoginMovil {
+    margin-left: 4% !important;
+    margin-right: 4% !important;
+}
+
+.gridStylePopup {
+  padding-left: 0px !important;
+  border: 1px solid rgb(212,212,212);
+  height: 100px;
+  margin-right: -14px;
+}
+.seleccionar-proy{
+  left: -169px !important;
+}
+
+
+.alignTopCheckboxPopup {
+    text-align: left;
+    top: 0px;
+    position: absolute;
+    left: -111px;
+}
+
+
+.popclose {
+  text-align: center;
+  position: absolute;
+  top: 5px;
+  right: 11px;
+  z-index:1000;
+  padding: 0px !important;
+  background-color: transparent !important;
+}
+.popclose:hover {
+  cursor: pointer;
+}
+
+.itemPopUp{
+  border: none;
+  height: 10px;
+  padding-bottom: 8px;
+
+}
+.popUpLabelError{
+  color:#D85756;
+  font-weight:normal;
+  margin-left: 3%;
+  width: 93%;
+}
+
+.marcoGestionPopUp{
+  width: 100%;
+  height: 100%;
+}
+.textoInputPopUp{
+  font-size: 20px !important;
+  border-bottom: 1px black solid !important;
+  background: none;
+}
+.labelPopup{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(47, 192, 197);
+  text-decoration: underline;
+}
+.labelPopup:hover{
+  cursor: pointer;
+}
+
+.colorLoading{
+  stroke: white;
+  fill: white
+}
+
+.paddingGraficos{
+  padding-top: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.has-header {
+    top: 8%;
+}
+.contenedorDivPrincipal{
+  position: fixed;
+  text-align: center;
+}
+.classTituloDiv{
+  text-align: left;
+  margin-left: 10%;
+}
+.classAlinearElemento{
+  text-align: left;
+  margin-left: 9.5%;
+}
+.alinearTitulo{
+  margin-left: 6%;
+}
+
+
+.popup{
+  width: 44vh;
+}
+
+
+.titulosear{
+  color: #fff;
+  background-color: #0747A6;
+}
+.color{
+  background-color: #0747A6;
+  color: white;
+}

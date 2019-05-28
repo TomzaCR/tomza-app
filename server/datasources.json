@@ -1,0 +1,21 @@
+{
+  "cmi": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "",
+    "database": "SearMedica",
+    "password": "postgres",
+    "name": "cmi",
+    "user": "postgres",
+    "connector": "postgresql"
+  },
+  "tomza": {
+    "host": "localhost",
+    "url": "",
+    "database": "tomzabd",
+    "password": "",
+    "name": "tomza",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

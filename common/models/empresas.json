@@ -1,0 +1,26 @@
+{
+  "name": "empresas",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "nombre_empresa": {
+      "type": "string"
+    },
+    "codigoPais": {
+      "type": "number"
+    },
+    "cedulaJuridica": {
+      "type": "number"
+    },
+    "codigoSeguridad": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

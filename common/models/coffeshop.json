@@ -1,0 +1,24 @@
+{
+  "name": "coffeshop",
+  "options": {
+    "idInjection": true,
+    "postgres": {
+      "shema": "strongloop",
+      "table": "inventory"
+    }
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "city": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

@@ -1,0 +1,123 @@
+{
+  "name": "cliente",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "codigo": {
+      "type": "string"
+    },
+    "codhis": {
+      "type": "string"
+    },
+    "proveedor": {
+      "type": "string"
+    },
+    "GLN": {
+      "type": "string"
+    },
+    "EAN": {
+      "type": "string"
+    },
+    "codigoscad": {
+      "type": "string"
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "razon": {
+      "type": "string"
+    },
+    "descuento": {
+      "type": "string"
+    },
+    "precio": {
+      "type": "string"
+    },
+    "tipo": {
+      "type": "string"
+    },
+    "ruta": {
+      "type": "string"
+    },
+    "subcanal": {
+      "type": "string"
+    },
+    "formadepago": {
+      "type": "string"
+    },
+    "credito": {
+      "type": "string"
+    },
+    "LAT": {
+      "type": "string"
+    },
+    "LONGI": {
+      "type": "string"
+    },
+    "g": {
+      "type": "string"
+    },
+    "puedeFacturar": {
+      "type": "string"
+    },
+    "lprecioa": {
+      "type": "string"
+    },
+    "lprecioc": {
+      "type": "string"
+    },
+    "ldescuento": {
+      "type": "string"
+    },
+    "especial": {
+      "type": "string"
+    },
+    "L": {
+      "type": "string"
+    },
+    "K": {
+      "type": "string"
+    },
+    "M": {
+      "type": "string"
+    },
+    "J": {
+      "type": "string"
+    },
+    "V": {
+      "type": "string"
+    },
+    "S": {
+      "type": "string"
+    },
+    "D": {
+      "type": "string"
+    },
+    "fechaCreacion": {
+      "type": "string"
+    },
+    "tipodoc": {
+      "type": "number"
+    },
+    "documento": {
+      "type": "string"
+    },
+    "correo": {
+      "type": "string"
+    },
+    "nombredoc": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

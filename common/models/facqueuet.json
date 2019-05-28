@@ -1,0 +1,41 @@
+{
+  "name": "facqueuet",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "ruta": {
+      "type": "string"
+    },
+    "facnumero": {
+      "type": "string"
+    },
+    "idcliente": {
+      "type": "string"
+    },
+    "detalle": {
+      "type": "string"
+    },
+    "totalexenta": {
+      "type": "string"
+    },
+    "total": {
+      "type": "string"
+    },
+    "rawdetalle": {
+      "type": "string"
+    },
+    "corre": {
+      "type": "string"
+    },
+    "fechadt": {
+      "type": "date"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

@@ -1,0 +1,37 @@
+{
+  "name": "usuarios",
+  "plural": "usuarios",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "usuario": {
+      "type": "string"
+    },
+    "contrasena": {
+      "type": "string"
+    },
+    "rol": {
+      "type": "string"
+    },
+    "ruta": {
+      "type": "string"
+    },
+    "telefono": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
