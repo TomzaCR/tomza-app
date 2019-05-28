@@ -1,0 +1,29 @@
+{
+  "name": "clave",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "clave": {
+      "type": "string",
+      "required": true
+    },
+    "consecutivo": {
+      "type": "string",
+      "required": true
+    },
+    "facnumero": {
+      "type": "string",
+      "required": true
+    },
+    "fecha": {
+      "type": "date"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

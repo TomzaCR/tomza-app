@@ -44,5 +44,9 @@
   "empresas": {
     "dataSource": "tomza",
     "public": true
+  },
+  "clave": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
