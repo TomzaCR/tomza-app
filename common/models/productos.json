@@ -9,10 +9,16 @@
     "id": {
       "type": "number"
     },
-    "nombre": {
+    "producto": {
       "type": "string"
     },
-    "precio": {
+    "precioPlanta": {
+      "type": "string"
+    },
+    "precioAgencia": {
+      "type": "string"
+    },
+    "precioConsumidor": {
       "type": "string"
     },
     "descripcion": {
