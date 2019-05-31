@@ -13,13 +13,13 @@
       "type": "string"
     },
     "precioPlanta": {
-      "type": "string"
+      "type": "number"
     },
     "precioAgencia": {
-      "type": "string"
+      "type": "number"
     },
     "precioConsumidor": {
-      "type": "string"
+      "type": "number"
     },
     "descripcion": {
       "type": "string"
