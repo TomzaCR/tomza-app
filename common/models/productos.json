@@ -12,13 +12,13 @@
     "producto": {
       "type": "string"
     },
-    "precioPlanta": {
+    "precio": {
       "type": "string"
     },
-    "precioAgencia": {
+    "tipoPrecio": {
       "type": "string"
     },
-    "precioConsumidor": {
+    "tipoCliente": {
       "type": "string"
     },
     "descripcion": {
