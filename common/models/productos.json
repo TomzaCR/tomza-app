@@ -1,32 +1,32 @@
 {
-  "name": "productos",
-  "base": "PersistedModel",
-  "idInjection": true,
-  "options": {
-    "validateUpsert": true
-  },
-  "properties": {
-    "id": {
-      "type": "number"
-    },
-    "producto": {
-      "type": "string"
-    },
-    "precioPlanta": {
-      "type": "number"
-    },
-    "precioAgencia": {
-      "type": "number"
-    },
-    "precioConsumidor": {
-      "type": "number"
-    },
-    "descripcion": {
-      "type": "string"
-    }
-  },
-  "validations": [],
-  "relations": {},
-  "acls": [],
-  "methods": {}
+"name": "productos",
+"base": "PersistedModel",
+"idInjection": true,
+"options": {
+"validateUpsert": true
+},
+"properties": {
+"id": {
+"type": "number"
+},
+"producto": {
+"type": "string"
+},
+"precio": {
+"type": "string"
+},
+"tipoPrecio": {
+"type": "string"
+},
+"tipoCliente": {
+"type": "string"
+},
+"descripcion": {
+"type": "string"
+}
+},
+"validations": [],
+"relations": {},
+"acls": [],
+"methods": {}
 }
