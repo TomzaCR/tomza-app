@@ -27,9 +27,16 @@
     "rawdetalle": {
       "type": "string"
     },
+    "detail": {
+      "type": "string"
+    },
     "corre": {
       "type": "string"
     },
+    "estado": {
+      "type": "string"
+    },
+
     "fechadt": {
       "type": "date"
     }
@@ -39,3 +46,4 @@
   "acls": [],
   "methods": {}
 }
+
