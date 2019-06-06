@@ -7,16 +7,13 @@
   },
   "properties": {
     "clave": {
-      "type": "string",
-      "required": true
+      "type": "string"
     },
     "consecutivo": {
-      "type": "string",
-      "required": true
+      "type": "string"
     },
     "facnumero": {
-      "type": "string",
-      "required": true
+      "type": "string"
     },
     "fecha": {
       "type": "date"
