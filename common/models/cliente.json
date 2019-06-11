@@ -97,7 +97,7 @@
     "S": {
       "type": "string"
     },
-    "D": {
+    "Do": {
       "type": "string"
     },
     "fechaCreacion": {
