@@ -1,11 +1,10 @@
 {
   "tomza": {
-     "name": "tomza",
+    "name": "tomza",
     "connector": "mysql",
     "host": "tomzacr.com",
-    "port": 3306,
     "database": "TomzaDB",
-    "username": "son1cman",
+    "username": "son1cman@localhost",
     "password": "GasTomza#2019"
 }
 
