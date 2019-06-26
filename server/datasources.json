@@ -2,6 +2,7 @@
   "tomza": {
     "host": "tomzacr.com",
     "url": "tomzacr.com",
+    "port": "3306"
     "database": "TomzaDB",
     "password": "GasTomza#2019",
     "name": "tomza",
