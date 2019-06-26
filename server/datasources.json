@@ -1,11 +1,11 @@
 {
   "tomza": {
-    "host": "us-cdbr-iron-east-02.cleardb.net",
+    "host": "tomzacr.com",
     "url": "",
-    "database": "heroku_a8c536b4c070ebb",
-    "password": "dd66ece3",
+    "database": "TomzaDB",
+    "password": "sistemmas2019",
     "name": "tomza",
-    "user": "bf92f2dd87ceec",
+    "user": "nicole_sistemas1",
     "connector": "mysql"
   }
 }
