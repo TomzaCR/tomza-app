@@ -1,7 +1,7 @@
 {
   "tomza": {
-    "host": "tomzacr.com",
-    "url": "",
+    "host": "132.148.102.43",
+    "url": "tomzacr.com",
     "database": "TOMZADB",
     "password": "GasTomza#2019",
     "name": "tomza",
