@@ -1,6 +1,6 @@
 {
   "tomza": {
-    "name": "Tomzaocr",
+    "name": "Tomzacr",
     "connector": "mysql",
     "host": "tomzacr.com",
     "database": "TomzaDB",
