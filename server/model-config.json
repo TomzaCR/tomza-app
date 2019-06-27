@@ -52,5 +52,9 @@
   "trachk": {
     "dataSource": "tomza",
     "public": true
+  },
+  "noCompra": {
+    "dataSource": "tomza",
+    "public": true
   }
 }

@@ -1,0 +1,26 @@
+{
+  "name": "noCompra",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "codigoCliente": {
+      "type": "string"
+    },
+    "fecha": {
+      "type": "date"
+    },
+    "ruta": {
+      "type": "string"
+    },
+    "motivo": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
