@@ -22,6 +22,9 @@
     "descripcion": {
       "type": "string"
     },
+     "cerosTOM": {
+      "type": "string"
+    },
     "consecutivo": {
       "type": "number"
     }

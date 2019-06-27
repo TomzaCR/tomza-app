@@ -27,10 +27,17 @@
     "rawdetalle": {
       "type": "string"
     },
+    "detail": {
+      "type": "string"
+    },
     "corre": {
       "type": "string"
     },
-    "fechadt": {
+    "estado": {
+      "type": "string"
+    },
+
+    "fechacreacion": {
       "type": "date"
     }
   },
@@ -39,3 +46,4 @@
   "acls": [],
   "methods": {}
 }
+
