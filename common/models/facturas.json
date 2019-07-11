@@ -39,7 +39,7 @@
       "type": "string"
     },
     "fecha": {
-      "type": "date"
+      "type": "string"
     },
     "q25": {
       "type": "number",
