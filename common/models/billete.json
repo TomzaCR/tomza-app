@@ -9,34 +9,34 @@
     "diez": {
       "type": "number"
     },
-    "veinticinco": {
+    "vein": {
       "type": "number"
     },
-    "cincuenta": {
+    "cin": {
       "type": "number"
     },
     "cien": {
       "type": "number"
     },
-    "quinientos": {
+    "qui": {
       "type": "number"
     },
-    "cincuentaMil": {
+    "50k{
       "type": "number"
     },
-    "veinteMil": {
+    "20k{
       "type": "number"
     },
-    "diezMil": {
+    "10k{
       "type": "number"
     },
-    "cincoMil": {
+    "5k {
       "type": "number"
     },
-    "dosMil": {
+    "2k {
       "type": "number"
     },
-    "mil": {
+    "1k {
       "type": "number"
     },
     "dolares": {
