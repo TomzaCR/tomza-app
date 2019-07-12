@@ -60,5 +60,9 @@
    "noCompra": {
     "dataSource": "tomza",
     "public": true
+  },
+   "gasto": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
