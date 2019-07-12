@@ -114,9 +114,6 @@
     },
     "nombredoc": {
       "type": "string"
-    },
-    "tipoCilza": {
-      "type": "string"
     }
   },
   "validations": [],
