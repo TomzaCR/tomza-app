@@ -7,19 +7,22 @@
     "validateUpsert": true
   },
   "properties": {
-    "tipo": {
+    "coolant": {
       "type": "string"
     },
-    "descripcion": {
+    "aceite": {
       "type": "string"
     },
-    "factura": {
+    "luces": {
       "type": "string"
     },
-    "monto": {
+    "llantas": {
       "type": "string"
     },
     "fecha": {
+      "type": "string"
+    },
+    "fechadt": {
       "type": "date"
     },
     "ruta": {
