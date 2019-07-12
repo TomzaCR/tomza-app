@@ -1,1 +1,5 @@
-aa
+'use strict';
+
+module.exports = function(Trachk) {
+
+};
