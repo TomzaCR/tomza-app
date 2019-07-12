@@ -1,1 +1,33 @@
 
+{
+  "name": "gasto",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "tipo": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "string"
+    },
+    "factura": {
+      "type": "string"
+    },
+    "monto": {
+      "type": "string"
+    },
+    "fecha": {
+      "type": "date"
+    },
+    "ruta": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
