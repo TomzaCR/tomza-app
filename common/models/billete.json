@@ -7,43 +7,56 @@
   },
   "properties": {
     "diez": {
-      "type": "number"
+      "type": "number",
+       default":0
     },
     "vein": {
-      "type": "number"
+      "type": "number",
+      default":0
     },
     "cin": {
-      "type": "number"
+      "type": "number",
+      default":0
     },
     "cien": {
-      "type": "number"
+      "type": "number",
+      default":0
     },
     "qui": {
-      "type": "number"
+      "type": "number",
+      default":0
     },
     "50k": {
-      "type": "number"
+      "type": "number",
+      default":0
     },
     "20k": {
-      "type": "number"
+      "type": "number",
+      default":0
     },
     "10k": {
-      "type": "number"
+      "type": "number",
+       default":0
     },
     "5k": {
-      "type": "number"
+      "type": "number",
+       default":0
     },
     "2k": {
-      "type": "number"
+      "type": "number",
+      default":0
     },
     "1k": {
-      "type": "number"
+      "type": "number",
+      default":0
     },
     "dolares": {
-      "type": "number"
+      "type": "number",
+      default":0
     },
     "vale": {
-      "type": "number"
+      "type": "number",
+      default":0
     },
     "ruta": {
       "type": "number"
