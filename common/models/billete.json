@@ -10,6 +10,10 @@
       "type": "number",
        "default":0
     },
+    "cinco": {
+      "type": "number",
+       "default":0
+    },
     "vein": {
       "type": "number",
        "default":0
