@@ -59,7 +59,7 @@
       "default":0
     },
     "vale": {
-      "type": "number",
+      "type": "string",
       "default":0
     },
     "ruta": {
