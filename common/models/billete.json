@@ -63,7 +63,7 @@
       "default":0
     },
     "ruta": {
-      "type": "number"
+      "type": "string"
     },
     "fecha": {
       "type": "string"
