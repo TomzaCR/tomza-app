@@ -23,6 +23,9 @@
     },
     "descripcion": {
       "type": "string"
+    },
+    "precioViejo": {
+      "type": "number"
     }
   },
   "validations": [],
