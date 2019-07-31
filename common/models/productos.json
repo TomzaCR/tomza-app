@@ -23,8 +23,10 @@
     },
     "descripcion": {
       "type": "string"
-    }
-  },
+    },
+    "precioViejo":{
+      "type": "number"
+    },
   "validations": [],
   "relations": {},
   "acls": [],
