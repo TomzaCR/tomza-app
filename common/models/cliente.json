@@ -80,25 +80,25 @@
       "type": "string"
     },
     "L": {
-      "type": "string"
+      "type": "number"
     },
     "K": {
-      "type": "string"
+      "type": "number"
     },
     "M": {
-      "type": "string"
+      "type": "number"
     },
     "J": {
-      "type": "string"
+      "type": "number"
     },
     "V": {
-      "type": "string"
+      "type": "number"
     },
     "S": {
-      "type": "string"
+      "type": "number"
     },
     "Do": {
-      "type": "string"
+      "type": "number"
     },
     "fechaCreacion": {
       "type": "string"
