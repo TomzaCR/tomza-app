@@ -1,4 +1,4 @@
-
+{
   "tomza": {
     "host": "tomzacr.com",
     "url": "",
@@ -9,5 +9,6 @@
     "connector": "mysql"
   }
 }
+
 
 
