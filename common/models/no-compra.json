@@ -18,6 +18,9 @@
     "ruta": {
       "type": "string"
     },
+     "fechaRuta": {
+      "type": "string"
+    },
     "motivo": {
       "type": "string"
     }
