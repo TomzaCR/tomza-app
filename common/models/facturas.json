@@ -27,7 +27,6 @@
     },
     "descuentot": {
       "type": "string"
-
     },
     "credito": {
       "type": "string"
@@ -43,63 +42,63 @@
     },
     "q25": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "q25r": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "q100": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "q20": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "q20r": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "q10": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "q10r": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "q35": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "q35r": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "q45": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "q45r": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "q60": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "q60r": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "qlts": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "qkgs": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "LAT": {
       "type": "string"

@@ -8,59 +8,59 @@
   "properties": {
     "diez": {
       "type": "number",
-       "default":0
+      "default": 0
     },
     "cinco": {
       "type": "number",
-       "default":0
+      "default": 0
     },
     "vein": {
       "type": "number",
-       "default":0
+      "default": 0
     },
     "cin": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "cien": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "qui": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "50k": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "20k": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "10k": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "5k": {
       "type": "number",
-       "default":0
+      "default": 0
     },
     "2k": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "1k": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "dolares": {
       "type": "number",
-      "default":0
+      "default": 0
     },
     "vale": {
       "type": "string",
-      "default":0
+      "default": 0
     },
     "ruta": {
       "type": "string"

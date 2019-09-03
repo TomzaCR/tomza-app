@@ -57,11 +57,15 @@
     "dataSource": "tomza",
     "public": true
   },
-   "noCompra": {
+  "gasto": {
     "dataSource": "tomza",
     "public": true
   },
-   "gasto": {
+  "tanques": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "mantenimiento": {
     "dataSource": "tomza",
     "public": true
   }

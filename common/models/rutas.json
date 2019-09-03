@@ -22,7 +22,7 @@
     "descripcion": {
       "type": "string"
     },
-     "cerosTOM": {
+    "cerosTOM": {
       "type": "string"
     },
     "consecutivo": {

@@ -6,7 +6,7 @@
     "validateUpsert": true
   },
   "properties": {
-     "id": {
+    "id": {
       "type": "number"
     },
     "codigoCliente": {
@@ -18,7 +18,7 @@
     "ruta": {
       "type": "string"
     },
-     "fechaRuta": {
+    "fechaRuta": {
       "type": "string"
     },
     "motivo": {

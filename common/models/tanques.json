@@ -1,43 +1,50 @@
 {
-  "name": "facqueuet",
+  "name": "tanques",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
     "validateUpsert": true
   },
   "properties": {
-    "ruta": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "serie": {
       "type": "string"
     },
-    "facnumero": {
+    "codigoCliente": {
+      "type": "number"
+    },
+    "capacidadLitros": {
       "type": "string"
     },
-    "idcliente": {
+    "capacidadGalones": {
       "type": "string"
     },
-    "detalle": {
+    "ubicacionTanque": {
       "type": "string"
     },
-    "totalexenta": {
+    "vidaUtil": {
       "type": "string"
     },
-    "total": {
+    "nContrato": {
       "type": "string"
     },
-    "rawdetalle": {
+    "fechaFabricacion": {
       "type": "string"
     },
-    "detail": {
+    "fabricante": {
       "type": "string"
     },
-    "corre": {
-      "type": "string"
+    "fechaInstalacion": {
+      "type": "date"
+    },
+    "contratoActivo": {
+      "type": "boolean"
     },
     "estado": {
       "type": "string"
-    },
-    "fechacreacion": {
-      "type": "date"
     }
   },
   "validations": [],

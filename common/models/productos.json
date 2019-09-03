@@ -24,7 +24,7 @@
     "descripcion": {
       "type": "string"
     },
-    "precioViejo":{
+    "precioViejo": {
       "type": "number"
     }
   },
