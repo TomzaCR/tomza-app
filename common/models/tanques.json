@@ -41,10 +41,10 @@
       "type": "string"
     },
     "fechaInstalacion": {
-      "type": "date"
+      "type": "string"
     },
     "contratoActivo": {
-      "type": "boolean"
+      "type": "string"
     },
     "estado": {
       "type": "string"
