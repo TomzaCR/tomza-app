@@ -6,11 +6,11 @@
     "validateUpsert": true
   },
   "properties": {
-    "id": {
+    "idtanques": {
       "type": "number",
       "required": true
     },
-    "serie": {
+    "numSerie": {
       "type": "string"
     },
     "codigoCliente": {
@@ -22,13 +22,16 @@
     "capacidadGalones": {
       "type": "string"
     },
-    "ubicacionTanque": {
+    "Latitud": {
+      "type": "string"
+    },
+     "Longitud": {
       "type": "string"
     },
     "vidaUtil": {
       "type": "string"
     },
-    "nContrato": {
+    "numContrato": {
       "type": "string"
     },
     "fechaFabricacion": {
