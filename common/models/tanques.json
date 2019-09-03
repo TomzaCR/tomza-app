@@ -48,6 +48,9 @@
     },
     "estado": {
       "type": "string"
+    },
+     "ruta": {
+      "type": "string"
     }
   },
   "validations": [],
