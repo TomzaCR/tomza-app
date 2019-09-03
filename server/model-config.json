@@ -64,5 +64,9 @@
   "mantenimiento": {
     "dataSource": "tomza",
     "public": true
+  },
+  "tanques": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
