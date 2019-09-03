@@ -1,0 +1,56 @@
+{
+  "name": "tanques",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "numSerie": {
+      "type": "string"
+    },
+    "capacidadLitros": {
+      "type": "string"
+    },
+    "capacidadGalones": {
+      "type": "string"
+    },
+    "fechaFabricacion": {
+      "type": "string"
+    },
+    "fabricante": {
+      "type": "string"
+    },
+    "codigoCliente": {
+      "type": "string"
+    },
+    "numContrato": {
+      "type": "string"
+    },
+    "ruta": {
+      "type": "string"
+    },
+    "fechaInstalacion": {
+      "type": "string"
+    },
+    "vidaUtil": {
+      "type": "string"
+    },
+    "contratoActivo": {
+      "type": "string"
+    },
+    "estado": {
+      "type": "string"
+    },
+    "Latitud": {
+      "type": "string"
+    },
+     "Longitud": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
