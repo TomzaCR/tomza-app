@@ -1,5 +1,5 @@
 {
-  "name": "mantenimientos",
+  "name": "mantenimiento",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
