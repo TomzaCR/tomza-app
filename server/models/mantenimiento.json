@@ -6,11 +6,11 @@
     "validateUpsert": true
   },
   "properties": {
-    "idmantenimientos": {
+    "id": {
       "type": "number"
     },
     "fechaVisita": {
-      "type": "string"
+      "type": "date"
     },
     "trabajoRealizado": {
       "type": "string"
