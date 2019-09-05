@@ -7,7 +7,7 @@
   },
   "properties": {
     "fechaVisita": {
-      "type": "date"
+      "type": "string"
     },
     "trabajoRealizado": {
       "type": "string"
