@@ -16,7 +16,7 @@
       "type": "string"
     },
     "fechaFabricacion": {
-      "type": "string"
+      "type": "date"
     },
     "fabricante": {
       "type": "string"
@@ -31,7 +31,7 @@
       "type": "string"
     },
     "fechaInstalacion": {
-      "type": "string"
+      "type": "date"
     },
     "vidaUtil": {
       "type": "string"
