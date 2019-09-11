@@ -45,7 +45,7 @@
     "Latitud": {
       "type": "string"
     },
-     "Longitud": {
+    "Longitud": {
       "type": "string"
     }
   },

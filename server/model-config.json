@@ -68,5 +68,17 @@
   "tanques": {
     "dataSource": "tomza",
     "public": true
+  },
+  "detalletanque": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "id": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "distrito": {
+    "dataSource": "tomza",
+    "public": true
   }
 }

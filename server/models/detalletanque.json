@@ -1,27 +1,24 @@
 {
-  "name": "mantenimiento",
+  "name": "detalletanque",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
     "validateUpsert": true
   },
   "properties": {
-    "fechaVisita": {
+    "id": {
+      "type": "number"
+    },
+    "serietanque": {
       "type": "string"
     },
-    "trabajoRealizado": {
+    "numfactura": {
       "type": "string"
     },
-    "observaciones": {
+    "detalle": {
       "type": "string"
     },
-    "foto1": {
-      "type": "string"
-    },
-    "foto2": {
-      "type": "string"
-    },
-    "serieTanque": {
+    "codcliente": {
       "type": "string"
     }
   },

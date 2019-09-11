@@ -1,27 +1,18 @@
 {
-  "name": "mantenimiento",
+  "name": "distrito",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
     "validateUpsert": true
   },
   "properties": {
-    "fechaVisita": {
+    "id": {
+      "type": "number"
+    },
+    "nombre": {
       "type": "string"
     },
-    "trabajoRealizado": {
-      "type": "string"
-    },
-    "observaciones": {
-      "type": "string"
-    },
-    "foto1": {
-      "type": "string"
-    },
-    "foto2": {
-      "type": "string"
-    },
-    "serieTanque": {
+    "canton": {
       "type": "string"
     }
   },
