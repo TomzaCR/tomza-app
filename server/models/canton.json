@@ -1,5 +1,5 @@
 {
-  "name": "id",
+  "name": "canton",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
