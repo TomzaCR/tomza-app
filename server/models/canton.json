@@ -9,11 +9,14 @@
     "id": {
       "type": "number"
     },
-    "nombre": {
-      "type": "string"
-    },
-    "provincia": {
+    "idProvincia": {
       "type": "number"
+    },
+    "codigo": {
+      "type": "number"
+    },
+    "canton": {
+      "type": "string"
     }
   },
   "validations": [],

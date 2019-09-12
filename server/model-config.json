@@ -80,5 +80,9 @@
   "distrito": {
     "dataSource": "tomza",
     "public": true
+  },
+  "barrio": {
+    "dataSource": "tomza",
+    "public": true
   }
 }

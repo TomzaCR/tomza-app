@@ -1,5 +1,5 @@
 {
-  "name": "distrito",
+  "name": "barrio",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
@@ -9,13 +9,13 @@
     "id": {
       "type": "number"
     },
-    "idCanton": {
+    "idDistrito": {
       "type": "number"
     },
     "codigo": {
       "type": "number"
     },
-    "distrito": {
+    "barrio": {
       "type": "string"
     }
   },
