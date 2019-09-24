@@ -23,6 +23,15 @@
     },
     "serieTanque": {
       "type": "string"
+    },
+    "fechaValvula": {
+      "type": "string"
+    }, 
+    "gasInstalacion": {
+      "type": "string"
+    },
+    "gasDesinstalacion": {
+      "type": "string"
     }
   },
   "validations": [],
