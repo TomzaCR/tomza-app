@@ -24,7 +24,7 @@
     "serieTanque": {
       "type": "string"
     },
-    "fechasValvula": {
+    "fechaValvula": {
       "type": "date"
     }, 
     "gasInstalacion": {
