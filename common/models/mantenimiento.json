@@ -25,7 +25,7 @@
       "type": "string"
     },
     "fechaValvula": {
-      "type": "string"
+      "type": "date"
     }, 
     "gasInstalacion": {
       "type": "string"
