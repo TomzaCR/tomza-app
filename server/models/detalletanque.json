@@ -9,7 +9,7 @@
     "id": {
       "type": "number"
     },
-    "serietanque": {
+    "ruta": {
       "type": "string"
     },
     "numfactura": {
