@@ -20,6 +20,9 @@
     },
     "codcliente": {
       "type": "string"
+    },
+    "fecha": {
+      "type": "string"
     }
   },
   "validations": [],
