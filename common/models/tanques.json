@@ -62,6 +62,9 @@
     },
      "posicionTanque": {
       "type": "string"
+    },
+    "fechaClave": {
+      "type": "string"
     }
   },
   "validations": [],
