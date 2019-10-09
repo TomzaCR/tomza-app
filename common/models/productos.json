@@ -26,6 +26,9 @@
     },
     "precioViejo": {
       "type": "number"
+    },
+    "valorLitros": {
+      "type": "number"
     }
   },
   "validations": [],
