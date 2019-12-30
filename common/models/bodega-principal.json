@@ -1,27 +1,19 @@
 {
-  "name": "mantenimiento",
+  "name": "bodegaPrincipal",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
     "validateUpsert": true
   },
   "properties": {
-    "fechaVisita": {
-      "type": "date"
+    "id": {
+      "type": "number",
+      "required": true
     },
-    "trabajoRealizado": {
+    "unidad_negocio": {
       "type": "string"
     },
-    "observaciones": {
-      "type": "string"
-    },
-    "foto1": {
-      "type": "string"
-    },
-    "foto2": {
-      "type": "string"
-    },
-    "serieTanque": {
+    "total_litros": {
       "type": "string"
     }
   },

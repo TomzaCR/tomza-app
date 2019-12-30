@@ -68,5 +68,33 @@
   "tanques": {
     "dataSource": "tomza",
     "public": true
+  },
+  "bitacora": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "bodegaPrincipal": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "bodegaCompras": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "cilindrosEntrada": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "cilindrossalida": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "remesaEntrada": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "remesasalida": {
+    "dataSource": "tomza",
+    "public": true
   }
 }

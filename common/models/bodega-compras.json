@@ -1,51 +1,51 @@
 {
-  "name": "tanques",
+  "name": "bodegaCompras",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
     "validateUpsert": true
   },
   "properties": {
-    "numSerie": {
+    "id": {
+      "type": "number"
+    },
+    "fecha_compra": {
+      "type": "date"
+    },
+    "fecha_descarga": {
+      "type": "date"
+    },
+    "num_factura": {
       "type": "string"
     },
-    "capacidadLitros": {
+    "colones": {
       "type": "string"
     },
-    "capacidadGalones": {
+    "kilos": {
       "type": "string"
     },
-    "fechaFabricacion": {
+    "densidad": {
       "type": "string"
     },
-    "fabricante": {
+    "factor_conversion": {
       "type": "string"
     },
-    "codigoCliente": {
+    "litros": {
       "type": "string"
     },
-    "numContrato": {
+    "cisterna": {
       "type": "string"
     },
-    "ruta": {
+    "placa": {
       "type": "string"
     },
-    "fechaInstalacion": {
+    "chofer": {
       "type": "string"
     },
-    "vidaUtil": {
-      "type": "string"
-    },
-    "contratoActivo": {
+    "destino": {
       "type": "string"
     },
     "estado": {
-      "type": "string"
-    },
-    "Latitud": {
-      "type": "string"
-    },
-    "Longitud": {
       "type": "string"
     }
   },

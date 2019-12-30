@@ -1,27 +1,30 @@
 {
-  "name": "mantenimiento",
+  "name": "remesasalida",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
     "validateUpsert": true
   },
   "properties": {
-    "fechaVisita": {
+    "id": {
+      "type": "number"
+    },
+    "deLugar": {
+      "type": "string"
+    },
+    "ruta": {
+      "type": "string"
+    },
+    "realizadoPor": {
+      "type": "string"
+    },
+    "nombre_rutero": {
+      "type": "number"
+    },
+    "fechaEntrada": {
       "type": "date"
     },
-    "trabajoRealizado": {
-      "type": "string"
-    },
-    "observaciones": {
-      "type": "string"
-    },
-    "foto1": {
-      "type": "string"
-    },
-    "foto2": {
-      "type": "string"
-    },
-    "serieTanque": {
+    "unidad_negocio": {
       "type": "string"
     }
   },

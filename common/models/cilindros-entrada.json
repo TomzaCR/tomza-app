@@ -1,27 +1,27 @@
 {
-  "name": "mantenimiento",
+  "name": "cilindrosEntrada",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
     "validateUpsert": true
   },
   "properties": {
-    "fechaVisita": {
-      "type": "date"
+    "id": {
+      "type": "number"
     },
-    "trabajoRealizado": {
+    "idRemesaEntrada": {
+      "type": "number"
+    },
+    "cilindro": {
       "type": "string"
     },
-    "observaciones": {
+    "cantidad": {
       "type": "string"
     },
-    "foto1": {
+    "material": {
       "type": "string"
     },
-    "foto2": {
-      "type": "string"
-    },
-    "serieTanque": {
+    "tipo": {
       "type": "string"
     }
   },
