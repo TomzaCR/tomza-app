@@ -1,0 +1,26 @@
+{
+  "name": "canton",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number"
+    },
+    "idProvincia": {
+      "type": "number"
+    },
+    "codigo": {
+      "type": "number"
+    },
+    "canton": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

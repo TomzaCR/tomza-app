@@ -1,0 +1,26 @@
+{
+  "name": "distrito",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number"
+    },
+    "idCanton": {
+      "type": "number"
+    },
+    "codigo": {
+      "type": "number"
+    },
+    "distrito": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

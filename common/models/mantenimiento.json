@@ -7,7 +7,7 @@
   },
   "properties": {
     "fechaVisita": {
-      "type": "date"
+      "type": "string"
     },
     "trabajoRealizado": {
       "type": "string"
@@ -22,6 +22,21 @@
       "type": "string"
     },
     "serieTanque": {
+      "type": "string"
+    },
+    "fechaValvula": {
+      "type": "date"
+    }, 
+    "gasInstalacion": {
+      "type": "string"
+    },
+    "gasDesinstalacion": {
+      "type": "string"
+    },
+     "horaFin": {
+      "type": "string"
+    },
+     "horaInicio": {
       "type": "string"
     }
   },

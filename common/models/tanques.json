@@ -16,7 +16,7 @@
       "type": "string"
     },
     "fechaFabricacion": {
-      "type": "string"
+      "type": "date"
     },
     "fabricante": {
       "type": "string"
@@ -30,10 +30,10 @@
     "ruta": {
       "type": "string"
     },
-    "fechaInstalacion": {
+    "propietario": {
       "type": "string"
     },
-    "vidaUtil": {
+    "nombreNegocio": {
       "type": "string"
     },
     "contratoActivo": {
@@ -46,6 +46,24 @@
       "type": "string"
     },
     "Longitud": {
+      "type": "string"
+    },
+    "provincia": {
+      "type": "string"
+    },
+    "canton": {
+      "type": "string"
+    },
+    "distrito": {
+      "type": "string"
+    },
+    "marcaTanque": {
+      "type": "string"
+    },
+    "posicionTanque": {
+      "type": "string"
+    },
+    "fechaClave": {
       "type": "string"
     }
   },

@@ -1,5 +1,5 @@
 {
-  "name": "productos",
+  "name": "detalletanque",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
@@ -9,26 +9,20 @@
     "id": {
       "type": "number"
     },
-    "producto": {
+    "ruta": {
       "type": "string"
     },
-    "precio": {
+    "numfactura": {
       "type": "string"
     },
-    "tipoPrecio": {
+    "detalle": {
       "type": "string"
     },
-    "tipoCliente": {
+    "codcliente": {
       "type": "string"
     },
-    "descripcion": {
+    "fecha": {
       "type": "string"
-    },
-    "precioViejo": {
-      "type": "number"
-    },
-    "valorLitros": {
-      "type": "number"
     }
   },
   "validations": [],

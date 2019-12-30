@@ -94,7 +94,21 @@
     "public": true
   },
   "remesasalida": {
-    "dataSource": "tomza",
-    "public": true
+    "detalletanque": {
+      "dataSource": "tomza",
+      "public": true
+    },
+    "canton": {
+      "dataSource": "tomza",
+      "public": true
+    },
+    "distrito": {
+      "dataSource": "tomza",
+      "public": true
+    },
+    "barrio": {
+      "dataSource": "tomza",
+      "public": true
+    }
   }
 }
