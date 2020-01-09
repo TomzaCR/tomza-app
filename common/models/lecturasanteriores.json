@@ -1,0 +1,35 @@
+{
+  "name": "lecturasanteriores",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number"
+    },
+    "codigo": {
+      "type": "string"
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "razon": {
+      "type": "string"
+    },
+    "fechaactualizacion": {
+      "type": "date"
+    },
+    "lectura": {
+      "type": "string"
+    },
+    "ruta": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

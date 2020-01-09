@@ -120,5 +120,9 @@
   "bodegaPrincipal1": {
     "dataSource": "tomza",
     "public": true
+  },
+  "lecturasanteriores": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
