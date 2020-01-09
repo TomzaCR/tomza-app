@@ -1,0 +1,32 @@
+{
+  "name": "camion",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number"
+    },
+    "placa": {
+      "type": "string"
+    },
+    "ruta": {
+      "type": "string"
+    },
+    "unidad_negocio": {
+      "type": "string"
+    },
+    "marca": {
+      "type": "string"
+    },
+    "capacidad": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

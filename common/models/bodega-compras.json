@@ -34,13 +34,13 @@
       "type": "string"
     },
     "cisterna": {
-      "type": "string"
+      "type": "number"
     },
     "placa": {
-      "type": "string"
+      "type": "number"
     },
     "chofer": {
-      "type": "string"
+      "type": "number"
     },
     "destino": {
       "type": "string"
@@ -50,7 +50,18 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "rutero": {
+      "type": "belongsTo",
+      "model": "chofer",
+      "foreignKey": "chofer"
+    },
+    "camion": {
+      "type": "belongsTo",
+      "model": "camion",
+      "foreignKey": "cisterna"
+    }
+  },
   "acls": [],
   "methods": {}
 }

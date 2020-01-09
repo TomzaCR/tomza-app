@@ -1,0 +1,26 @@
+{
+  "name": "chofer",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number"
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "ruta": {
+      "type": "string"
+    },
+    "unidad_negocio": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

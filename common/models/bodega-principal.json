@@ -5,18 +5,7 @@
   "options": {
     "validateUpsert": true
   },
-  "properties": {
-    "id": {
-      "type": "number",
-      "required": true
-    },
-    "unidad_negocio": {
-      "type": "string"
-    },
-    "total_litros": {
-      "type": "string"
-    }
-  },
+  "properties": {},
   "validations": [],
   "relations": {},
   "acls": [],

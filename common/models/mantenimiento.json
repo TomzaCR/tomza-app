@@ -26,17 +26,17 @@
     },
     "fechaValvula": {
       "type": "date"
-    }, 
+    },
     "gasInstalacion": {
       "type": "string"
     },
     "gasDesinstalacion": {
       "type": "string"
     },
-     "horaFin": {
+    "horaFin": {
       "type": "string"
     },
-     "horaInicio": {
+    "horaInicio": {
       "type": "string"
     }
   },

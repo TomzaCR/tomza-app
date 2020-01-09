@@ -73,10 +73,6 @@
     "dataSource": "tomza",
     "public": true
   },
-  "bodegaPrincipal": {
-    "dataSource": "tomza",
-    "public": true
-  },
   "bodegaCompras": {
     "dataSource": "tomza",
     "public": true
@@ -94,21 +90,35 @@
     "public": true
   },
   "remesasalida": {
-    "detalletanque": {
-      "dataSource": "tomza",
-      "public": true
-    },
-    "canton": {
-      "dataSource": "tomza",
-      "public": true
-    },
-    "distrito": {
-      "dataSource": "tomza",
-      "public": true
-    },
-    "barrio": {
-      "dataSource": "tomza",
-      "public": true
-    }
+    "dataSource": "tomza",
+    "public": true
+  },
+  "detalletanque": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "canton": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "distrito": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "barrio": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "chofer": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "camion": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "bodegaPrincipal1": {
+    "dataSource": "tomza",
+    "public": true
   }
 }

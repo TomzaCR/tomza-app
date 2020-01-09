@@ -1,0 +1,23 @@
+{
+  "name": "bodegaPrincipal1",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number"
+    },
+    "unidad_negocio": {
+      "type": "string"
+    },
+    "total_litros": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
