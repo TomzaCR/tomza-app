@@ -1,6 +1,6 @@
 {
   "name": "bitacora",
-  "plural": "y",
+  "plural": "bitacora",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
