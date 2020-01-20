@@ -3,6 +3,7 @@
   "plural": "bitacora",
   "base": "PersistedModel",
   "idInjection": true,
+
   "options": {
     "validateUpsert": true
   },
