@@ -1,0 +1,103 @@
+{
+  "name": "bodega_camion",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number"
+    },
+    "unidad_negocio": {
+      "type": "string"
+    },
+    "fecha": {
+      "type": "date"
+    },
+    "id_chofer": {
+      "type": "string"
+    },
+    "id_camion": {
+      "type": "number"
+    },
+    "ruta": {
+      "type": "string"
+    },
+    "q10": {
+      "type": "string",
+      "default": 0
+    },
+    "q10r": {
+      "type": "string",
+      "default": 0
+    },
+    "q20": {
+      "type": "string",
+      "default": 0
+    },
+    "q20r": {
+      "type": "string",
+      "default": 0
+    },
+    "q25": {
+      "type": "string",
+      "default": 0
+    },
+    "q25r": {
+      "type": "string",
+      "default": 0
+    },
+    "q35": {
+      "type": "string",
+      "default": 0
+    },
+    "q35r": {
+      "type": "string",
+      "default": 0
+    },
+    "q45": {
+      "type": "string",
+      "default": 0
+    },
+    "q45r": {
+      "type": "string",
+      "default": 0
+    },
+    "q60": {
+      "type": "string",
+      "default": 0
+    },
+    "q60r": {
+      "type": "string",
+      "default": 0
+    },
+    "q100": {
+      "type": "string",
+      "default": 0
+    },
+    "qlts": {
+      "type": "string",
+      "default": 0
+    },
+    "qkgs": {
+      "type": "string",
+      "default": 0
+    }
+  },
+  "validations": [],
+  "relations": {
+    "rutero": {
+      "type": "belongsTo",
+      "model": "chofer",
+      "foreignKey": "id_chofer"
+    },
+    "camion": {
+      "type": "belongsTo",
+      "model": "camion",
+      "foreignKey": "id_camion"
+    }
+  },
+  "acls": [],
+  "methods": {}
+}

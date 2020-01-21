@@ -124,5 +124,9 @@
   "lecturasanteriores": {
     "dataSource": "tomza",
     "public": true
+  },
+  "bodega_camion": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
