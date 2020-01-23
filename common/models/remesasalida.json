@@ -25,7 +25,7 @@
       "type": "date"
     },
     "placaCamion": {
-      "type": "string"
+      "type": "number"
     },
     "q25": {
       "type": "number",
