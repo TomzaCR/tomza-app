@@ -27,50 +27,65 @@
     "placaCamion": {
       "type": "string"
     },
-    "q10": {
-      "type": "string"
-    },
-    "q10r": {
-      "type": "string"
-    },
-    "q20": {
-      "type": "string"
-    },
-    "q20r": {
-      "type": "string"
-    },
     "q25": {
-      "type": "string"
+      "type": "number",
+      "default": 0
     },
     "q25r": {
-      "type": "string"
-    },
-    "q35": {
-      "type": "string"
-    },
-    "q35r": {
-      "type": "string"
-    },
-    "q45": {
-      "type": "string"
-    },
-    "q45r": {
-      "type": "string"
-    },
-    "q60": {
-      "type": "string"
-    },
-    "q60r": {
-      "type": "string"
+      "type": "number",
+      "default": 0
     },
     "q100": {
-      "type": "string"
+      "type": "number",
+      "default": 0
+    },
+    "q20": {
+      "type": "number",
+      "default": 0
+    },
+    "q20r": {
+      "type": "number",
+      "default": 0
+    },
+    "q10": {
+      "type": "number",
+      "default": 0
+    },
+    "q10r": {
+      "type": "number",
+      "default": 0
+    },
+    "q35": {
+      "type": "number",
+      "default": 0
+    },
+    "q35r": {
+      "type": "number",
+      "default": 0
+    },
+    "q45": {
+      "type": "number",
+      "default": 0
+    },
+    "q45r": {
+      "type": "number",
+      "default": 0
+    },
+    "q60": {
+      "type": "number",
+      "default": 0
+    },
+    "q60r": {
+      "type": "number",
+      "default": 0
     },
     "qlts": {
-      "type": "string"
+      "type": "number",
+      "default": 0
     },
     "qkgs": {
-      "type": "string"
+      "type": "number",
+      "default": 0
     }
 
 
