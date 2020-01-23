@@ -9,7 +9,7 @@
     "id": {
       "type": "number"
     },
-    "deLugar": {
+    "lugarSalida": {
       "type": "string"
     },
     "ruta": {
@@ -18,15 +18,62 @@
     "realizadoPor": {
       "type": "string"
     },
-    "nombre_rutero": {
+    "chofer": {
       "type": "number"
     },
-    "fechaEntrada": {
+    "fechaSalida": {
       "type": "date"
     },
-    "unidad_negocio": {
+    "placaCamion": {
+      "type": "string"
+    },
+    "q10": {
+      "type": "string"
+    },
+    "q10r": {
+      "type": "string"
+    },
+    "q20": {
+      "type": "string"
+    },
+    "q20r": {
+      "type": "string"
+    },
+    "q25": {
+      "type": "string"
+    },
+    "q25r": {
+      "type": "string"
+    },
+    "q35": {
+      "type": "string"
+    },
+    "q35r": {
+      "type": "string"
+    },
+    "q45": {
+      "type": "string"
+    },
+    "q45r": {
+      "type": "string"
+    },
+    "q60": {
+      "type": "string"
+    },
+    "q60r": {
+      "type": "string"
+    },
+    "q100": {
+      "type": "string"
+    },
+    "qlts": {
+      "type": "string"
+    },
+    "qkgs": {
       "type": "string"
     }
+
+
   },
   "validations": [],
   "relations": {},
