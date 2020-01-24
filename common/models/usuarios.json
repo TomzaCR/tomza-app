@@ -23,7 +23,7 @@
     "rol": {
       "type": "string"
     },
-    "ruta": {
+    "unidadNegocio": {
       "type": "string"
     },
     "telefono": {
