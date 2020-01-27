@@ -15,6 +15,9 @@
     "ruta": {
       "type": "string"
     },
+    "idRemesaS": {
+      "type": "number"
+    },
     "realizadoPor": {
       "type": "string"
     },
