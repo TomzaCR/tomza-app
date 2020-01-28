@@ -90,7 +90,7 @@
     "entradaCreada": {
       "type": "boolean",
       "default": false
-    }
+    } 
 
 
   },
