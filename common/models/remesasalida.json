@@ -86,6 +86,9 @@
     "qkgs": {
       "type": "number",
       "default": 0
+    },
+    "entradaCreada": {
+      "type": "boolean"
     }
 
 
