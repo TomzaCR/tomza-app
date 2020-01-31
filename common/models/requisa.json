@@ -1,0 +1,99 @@
+{
+  "name": "requisa",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number"
+    },
+    "unidad_negocio": {
+      "type": "string"
+    },
+    "ruta": {
+      "type": "string"
+    },
+    "canal": {
+      "type": "string"
+    },
+    "tipoRequisa": {
+      "type": "string"
+    },
+    "fechaRequisa": {
+      "type": "date"
+    },
+    "q25": {
+      "type": "number",
+      "default": 0
+    },
+    "q25r": {
+      "type": "number",
+      "default": 0
+    },
+    "q100": {
+      "type": "number",
+      "default": 0
+    },
+    "q20": {
+      "type": "number",
+      "default": 0
+    },
+    "q20r": {
+      "type": "number",
+      "default": 0
+    },
+    "q10": {
+      "type": "number",
+      "default": 0
+    },
+    "q10r": {
+      "type": "number",
+      "default": 0
+    },
+    "q35": {
+      "type": "number",
+      "default": 0
+    },
+    "q35r": {
+      "type": "number",
+      "default": 0
+    },
+    "q45": {
+      "type": "number",
+      "default": 0
+    },
+    "q45r": {
+      "type": "number",
+      "default": 0
+    },
+    "q60": {
+      "type": "number",
+      "default": 0
+    },
+    "q60r": {
+      "type": "number",
+      "default": 0
+    },
+    "descripcionTraslado": {
+      "type": "string"
+    },
+    "observacion": {
+      "type": "string"
+    },
+    "supervisorVentas": {
+      "type": "string"
+    },
+    "agenteVentas": {
+      "type": "string"
+    },
+    "supervisorAnden": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

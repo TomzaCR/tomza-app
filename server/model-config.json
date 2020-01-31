@@ -128,5 +128,9 @@
   "bodega_camion": {
     "dataSource": "tomza",
     "public": true
+  },
+  "requisa": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
