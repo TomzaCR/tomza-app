@@ -13,7 +13,10 @@
       "type": "string"
     },
     "total_litros": {
-      "type": "string"
+      "type": "number"
+    },
+    "litrosAlmacenados": {
+      "type": "number"
     }
   },
   "validations": [],
