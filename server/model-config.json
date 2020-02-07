@@ -132,5 +132,9 @@
   "requisa": {
     "dataSource": "tomza",
     "public": true
+  },
+  "respaldoLecturas": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
