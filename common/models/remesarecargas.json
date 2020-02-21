@@ -13,7 +13,7 @@
     "fechaCreada": {
       "type": "date"
     },
-    "fechaEntregada": {
+    "fechaEntrega": {
       "type": "date"
     },
     "cantEntregados": {
@@ -50,27 +50,23 @@
       "type": "number"
     },
     "q35r": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "q45": {
       "type": "number"
     },
     "q45r": {
-      "type": "number",
-      "default": 0
+      "type": "number"
+
     },
     "q60": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "q60r": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "q100": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     }
   },
   "validations": [],
