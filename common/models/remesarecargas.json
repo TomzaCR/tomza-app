@@ -1,0 +1,77 @@
+{
+  "name": "remesarecargas",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "fechaCreada": {
+      "type": "date"
+    },
+    "fechaEntregada": {
+      "type": "date"
+    },
+    "entregados": {
+      "type": "boolean"
+    },
+    "ruta": {
+      "type": "string"
+    },
+    "creada": {
+      "type": "boolean"
+    },
+    "q10": {
+      "type": "number"
+    },
+    "q10r": {
+      "type": "number"
+    },
+    "q20": {
+      "type": "number"
+    },
+    "q20r": {
+      "type": "number"
+    },
+    "q25": {
+      "type": "number"
+    },
+    "q25r": {
+      "type": "number"
+    },
+    "q35": {
+      "type": "number"
+    },
+    "q35r": {
+      "type": "number",
+      "default": 0
+    },
+    "q45": {
+      "type": "number"
+    },
+    "q45r": {
+      "type": "number",
+      "default": 0
+    },
+    "q60": {
+      "type": "number",
+      "default": 0
+    },
+    "q60r": {
+      "type": "number",
+      "default": 0
+    },
+    "q100": {
+      "type": "number",
+      "default": 0
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

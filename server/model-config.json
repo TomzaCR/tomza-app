@@ -136,5 +136,9 @@
   "respaldoLecturas": {
     "dataSource": "tomza",
     "public": true
+  },
+  "remesarecargas": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
