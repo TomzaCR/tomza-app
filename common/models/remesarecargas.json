@@ -16,6 +16,9 @@
     "fechaEntregada": {
       "type": "date"
     },
+    "cantEntregados": {
+      "type": "number"
+    },
     "entregados": {
       "type": "boolean"
     },
