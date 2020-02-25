@@ -140,5 +140,9 @@
   "remesarecargas": {
     "dataSource": "tomza",
     "public": true
+  },
+  "fachistorico": {
+    "dataSource": "tomza",
+    "public": true
   }
 }

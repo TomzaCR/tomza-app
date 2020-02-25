@@ -1,0 +1,135 @@
+{
+  "name": "fachistorico",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "codigo": {
+      "type": "string"
+    },
+    "facnumero": {
+      "type": "string"
+    },
+    "razon_social": {
+      "type": "string"
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "descuento": {
+      "type": "string"
+    },
+    "descuentot": {
+      "type": "string"
+    },
+    "credito": {
+      "type": "string"
+    },
+    "total": {
+      "type": "string"
+    },
+    "ruta": {
+      "type": "string"
+    },
+    "fecha": {
+      "type": "string"
+    },
+    "q25": {
+      "type": "number"
+    },
+    "q25r": {
+      "type": "number"
+    },
+    "q100": {
+      "type": "number"
+    },
+    "q20": {
+      "type": "number"
+    },
+    "q20r": {
+      "type": "number"
+    },
+    "q10": {
+      "type": "number"
+    },
+    "q10r": {
+      "type": "number"
+    },
+    "q35": {
+      "type": "number"
+    },
+    "q35r": {
+      "type": "number"
+    },
+    "q45": {
+      "type": "number"
+    },
+    "q45r": {
+      "type": "number"
+    },
+    "q60": {
+      "type": "number"
+    },
+    "q60r": {
+      "type": "number"
+    },
+    "qlts": {
+      "type": "number"
+    },
+    "qkgs": {
+      "type": "number"
+    },
+    "LAT": {
+      "type": "string"
+    },
+    "LONGI": {
+      "type": "string"
+    },
+    "g": {
+      "type": "string"
+    },
+    "efectivo": {
+      "type": "string"
+    },
+    "transmonto": {
+      "type": "string"
+    },
+    "transnumero": {
+      "type": "string"
+    },
+    "chknumero": {
+      "type": "string"
+    },
+    "chkbanco": {
+      "type": "string"
+    },
+    "chkmonto": {
+      "type": "string"
+    },
+    "tipo": {
+      "type": "string"
+    },
+    "cz25": {
+      "type": "string"
+    },
+    "cz25r": {
+      "type": "string"
+    },
+    "cz100r": {
+      "type": "string"
+    },
+    "fechadt": {
+      "type": "date"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
