@@ -114,6 +114,9 @@
     },
     "nombredoc": {
       "type": "string"
+    },
+    "tipoVisita": {
+      "type": "string"
     }
   },
   "validations": [],
