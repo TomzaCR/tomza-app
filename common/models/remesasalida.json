@@ -90,6 +90,9 @@
     "entradaCreada": {
       "type": "boolean",
       "default": false
+    },
+    "firmaChofer": {
+      "type": "string"
     }
   },
   "validations": [],
