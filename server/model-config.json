@@ -144,5 +144,9 @@
   "fachistorico": {
     "dataSource": "tomza",
     "public": true
+  },
+  "preventa": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
