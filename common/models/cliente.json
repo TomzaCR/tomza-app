@@ -114,6 +114,15 @@
     },
     "nombredoc": {
       "type": "string"
+    },
+    "tipoVisita": {
+      "type": "string"
+    },
+    "telefonoFijo": {
+      "type": "string"
+    },
+    "telefonoOpcional": {
+      "type": "string"
     }
   },
   "validations": [],
