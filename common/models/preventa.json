@@ -27,6 +27,12 @@
     },
     "fecha": {
       "type": "date"
+    },
+    "latitudCliente": {
+      "type": "string"
+    },
+    "longitudCliente": {
+      "type": "string"
     }
   },
   "validations": [],
