@@ -121,19 +121,11 @@
     "dataSource": "tomza",
     "public": true
   },
-  "lecturasanteriores": {
-    "dataSource": "tomza",
-    "public": true
-  },
   "bodega_camion": {
     "dataSource": "tomza",
     "public": true
   },
   "requisa": {
-    "dataSource": "tomza",
-    "public": true
-  },
-  "respaldoLecturas": {
     "dataSource": "tomza",
     "public": true
   },
