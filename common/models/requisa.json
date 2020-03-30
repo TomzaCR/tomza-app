@@ -1,5 +1,5 @@
 {
-  "name": "remesasalida",
+  "name": "requisa",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
@@ -9,23 +9,20 @@
     "id": {
       "type": "number"
     },
-    "lugarSalida": {
+    "unidad_negocio": {
       "type": "string"
     },
     "ruta": {
       "type": "string"
     },
-    "realizadoPor": {
+    "canal": {
       "type": "string"
     },
-    "chofer": {
-      "type": "number"
+    "tipoRequisa": {
+      "type": "string"
     },
-    "fechaSalida": {
+    "fechaRequisa": {
       "type": "date"
-    },
-    "placaCamion": {
-      "type": "number"
     },
     "q25": {
       "type": "number",
@@ -79,19 +76,19 @@
       "type": "number",
       "default": 0
     },
-    "qlts": {
-      "type": "number",
-      "default": 0
+    "descripcionTraslado": {
+      "type": "string"
     },
-    "qkgs": {
-      "type": "number",
-      "default": 0
+    "observacion": {
+      "type": "string"
     },
-    "entradaCreada": {
-      "type": "boolean",
-      "default": false
+    "supervisorVentas": {
+      "type": "string"
     },
-    "firmaChofer": {
+    "agenteVentas": {
+      "type": "string"
+    },
+    "supervisorAnden": {
       "type": "string"
     }
   },

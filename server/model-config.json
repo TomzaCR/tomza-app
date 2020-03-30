@@ -128,5 +128,25 @@
   "bodega_camion": {
     "dataSource": "tomza",
     "public": true
+  },
+  "requisa": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "respaldoLecturas": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "remesarecargas": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "fachistorico": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "preventa": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
