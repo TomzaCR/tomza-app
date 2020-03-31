@@ -140,5 +140,13 @@
   "preventa": {
     "dataSource": "tomza",
     "public": true
+  },
+  "lecturasanteriores": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "respaldoLecturas": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
