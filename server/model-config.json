@@ -148,5 +148,9 @@
   "respaldoLecturas": {
     "dataSource": "tomza",
     "public": true
+  },
+  "provincia": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
