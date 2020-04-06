@@ -33,6 +33,9 @@
     },
     "longitudCliente": {
       "type": "string"
+    },
+    "noCompra": {
+      "type": "string"
     }
   },
   "validations": [],
