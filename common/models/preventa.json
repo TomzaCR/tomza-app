@@ -36,6 +36,9 @@
     },
     "noCompra": {
       "type": "string"
+    },
+    "precio": {
+      "type": "number"
     }
   },
   "validations": [],
