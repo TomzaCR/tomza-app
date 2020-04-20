@@ -38,6 +38,9 @@
       "type": "string"
     }
   },
+  "precio": {
+    "type": "number"
+  },
   "validations": [],
   "relations": {},
   "acls": [],
