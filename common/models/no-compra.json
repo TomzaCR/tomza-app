@@ -13,7 +13,7 @@
       "type": "string"
     },
     "fecha": {
-      "type": "string"
+      "type": "date"
     },
     "ruta": {
       "type": "string"
