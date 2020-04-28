@@ -49,13 +49,13 @@
       "type": "string"
     },
     "provincia": {
-      "type": "number"
+      "type": "string"
     },
     "canton": {
-      "type": "number"
+      "type": "string"
     },
     "distrito": {
-      "type": "number"
+      "type": "string"
     },
     "marcaTanque": {
       "type": "string"
