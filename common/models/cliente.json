@@ -127,7 +127,7 @@
     "Activo": {
       "type": "boolean"
     },
-    "Comentarios": {
+    "Comentario": {
       "type": "string"
     }
   },
