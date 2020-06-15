@@ -123,6 +123,12 @@
     },
     "telefonoOpcional": {
       "type": "string"
+    },
+    "Activo": {
+      "type": "boolean"
+    },
+    "Comentarios": {
+      "type": "string"
     }
   },
   "validations": [],
