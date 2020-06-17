@@ -1,0 +1,33 @@
+{
+  "name": "cisterna",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "placa": {
+      "type": "number"
+    },
+    "modelo": {
+      "type": "string"
+    },
+    "capacidadTotal": {
+      "type": "number"
+    },
+    "porcentajeSistema": {
+      "type": "number"
+    },
+    "porcentajeMedi": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

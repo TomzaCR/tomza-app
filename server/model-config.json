@@ -152,5 +152,9 @@
   "provincia": {
     "dataSource": "tomza",
     "public": true
+  },
+  "cisterna": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
