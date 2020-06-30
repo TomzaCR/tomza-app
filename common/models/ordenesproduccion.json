@@ -1,0 +1,30 @@
+{
+  "name": "ordenesproduccion",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "ruta": {
+      "type": "string"
+    },
+    "tipocilindro": {
+      "type": "string"
+    },
+    "fecha": {
+      "type": "date"
+    },
+    "litrostotales": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

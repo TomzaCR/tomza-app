@@ -156,5 +156,9 @@
   "cisterna": {
     "dataSource": "tomza",
     "public": true
+  },
+  "ordenesproduccion": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
