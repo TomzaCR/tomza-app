@@ -24,6 +24,9 @@
     },
     "porcentajeMedi": {
       "type": "number"
+    },
+    "litros": {
+      "type": "string"
     }
   },
   "validations": [],
