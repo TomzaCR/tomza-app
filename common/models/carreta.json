@@ -1,0 +1,72 @@
+{
+  "name": "carreta",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "fecha": {
+      "type": "date"
+    },
+    "origen": {
+      "type": "string"
+    },
+    "destino": {
+      "type": "string"
+    },
+    "q10": {
+      "type": "number"
+    },
+    "q10r": {
+      "type": "number"
+    },
+    "q20": {
+      "type": "number"
+    },
+    "q20r": {
+      "type": "number"
+    },
+    "q25": {
+      "type": "number"
+    },
+    "q25r": {
+      "type": "number"
+    },
+    "q30": {
+      "type": "number"
+    },
+    "q35": {
+      "type": "number"
+    },
+    "q35r": {
+      "type": "number"
+    },
+    "q40": {
+      "type": "number"
+    },
+    "q45": {
+      "type": "number"
+    },
+    "q45r": {
+      "type": "number"
+    },
+    "q60": {
+      "type": "number"
+    },
+    "q60r": {
+      "type": "number"
+    },
+    "q100": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

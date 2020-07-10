@@ -160,5 +160,13 @@
   "ordenesproduccion": {
     "dataSource": "tomza",
     "public": true
+  },
+  "carreta": {
+    "dataSource": "tomza",
+    "public": true
+  },
+  "bodegacedi": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
