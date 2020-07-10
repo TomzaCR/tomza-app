@@ -70,11 +70,18 @@
     "q60r": {
       "type": "number",
       "default": 0
+    },
+    "q30": {
+      "type": "number",
+      "default": 0
+    },
+    "q40": {
+      "type": "number",
+      "default": 0
     }
   },
   "validations": [],
   "relations": {},
   "acls": [],
   "methods": {}
-
 }
