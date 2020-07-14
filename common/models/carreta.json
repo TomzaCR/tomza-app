@@ -19,6 +19,9 @@
     "destino": {
       "type": "string"
     },
+    "litrostotales": {
+      "type": "string"
+    },
     "q10": {
       "type": "number"
     },
