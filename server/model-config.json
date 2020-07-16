@@ -168,5 +168,9 @@
   "bodegacedi": {
     "dataSource": "tomza",
     "public": true
+  },
+  "remesa": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
