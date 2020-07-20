@@ -172,5 +172,9 @@
   "remesa": {
     "dataSource": "tomza",
     "public": true
+  },
+  "ajusteinventario": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
