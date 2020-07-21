@@ -25,6 +25,9 @@
     "placaCamion": {
       "type": "string"
     },
+    "lts": {
+      "type": "number"
+    },
     "q10": {
       "type": "number"
     },
