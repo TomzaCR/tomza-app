@@ -176,5 +176,9 @@
   "ajusteinventario": {
     "dataSource": "tomza",
     "public": true
+  },
+  "granel": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
