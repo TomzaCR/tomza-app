@@ -27,6 +27,9 @@
     },
     "litros": {
       "type": "number"
+    },
+    "marias": {
+      "type": "number"
     }
   },
   "validations": [],
