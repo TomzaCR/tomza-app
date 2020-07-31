@@ -30,6 +30,12 @@
     },
     "marias": {
       "type": "number"
+    },
+    "rutaAsignada": {
+      "type": "string"
+    },
+    "mariaMaxima": {
+      "type": "number"
     }
   },
   "validations": [],
