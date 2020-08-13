@@ -1,0 +1,33 @@
+{
+  "name": "bodegaDescargas",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "nombreBodega": {
+      "type": "string"
+    },
+    "tanque": {
+      "type": "string"
+    },
+    "litros": {
+      "type": "number"
+    },
+    "totalLitros": {
+      "type": "number"
+    },
+    "porcentaje": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
