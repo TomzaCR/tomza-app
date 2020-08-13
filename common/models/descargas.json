@@ -1,0 +1,32 @@
+{
+  "name": "descargas",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "idBodega": {
+      "type": "number",
+      "required": true
+    },
+    "idGranelera": {
+      "type": "number",
+      "required": true
+    },
+    "totalLitros": {
+      "type": "number"
+    },
+    "fecha": {
+      "type": "date"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

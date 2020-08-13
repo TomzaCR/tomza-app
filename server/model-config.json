@@ -188,5 +188,9 @@
   "bodegaDescargas": {
     "dataSource": "tomza",
     "public": true
+  },
+  "descargas": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
