@@ -180,5 +180,9 @@
   "granel": {
     "dataSource": "tomza",
     "public": true
+  },
+  "bodegatrasiego": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
