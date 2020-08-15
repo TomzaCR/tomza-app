@@ -16,10 +16,7 @@
     "unidadNegocio": {
       "type": "string"
     },
-    "porcentajeTotal": {
-      "type": "number"
-    },
-    "descarga": {
+    "totalLitros": {
       "type": "number"
     }
   },
