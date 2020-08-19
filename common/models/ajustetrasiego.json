@@ -1,0 +1,27 @@
+{
+  "name": "ajustetrasiego",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "fecha": {
+      "type": "date"
+    },
+    "ajuste": {
+      "type": "number"
+    },
+    "bodega": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

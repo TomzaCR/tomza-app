@@ -192,5 +192,9 @@
   "descargas": {
     "dataSource": "tomza",
     "public": true
+  },
+  "ajustetrasiego": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
