@@ -27,6 +27,12 @@
     },
     "tipo": {
       "type": "string"
+    },
+    "fecha": {
+      "type": "date"
+    },
+    "ruta": {
+      "type": "number"
     }
   },
   "validations": [],
