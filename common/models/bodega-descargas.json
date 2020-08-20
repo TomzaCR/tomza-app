@@ -24,6 +24,9 @@
     },
     "porcentaje": {
       "type": "number"
+    },
+    "tipo": {
+      "type": "string"
     }
   },
   "validations": [],
