@@ -1,0 +1,63 @@
+{
+  "name": "cambio",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "ruta": {
+      "type": "number"
+    },
+    "comentario": {
+      "type": "string"
+    },
+    "tipo": {
+      "type": "string"
+    },
+    "direccion": {
+      "type": "string"
+    },
+    "q10": {
+      "type": "number"
+    },
+    "q25": {
+      "type": "number"
+    },
+    "q25r": {
+      "type": "number"
+    },
+    "q30": {
+      "type": "number"
+    },
+    "q35": {
+      "type": "number"
+    },
+    "q40": {
+      "type": "number"
+    },
+    "q45": {
+      "type": "number"
+    },
+    "q60": {
+      "type": "number"
+    },
+    "q100": {
+      "type": "number"
+    },
+    "otro": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
