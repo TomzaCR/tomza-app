@@ -54,6 +54,9 @@
     },
     "otro": {
       "type": "number"
+    },
+    "fecha": {
+      "type": "date"
     }
   },
   "validations": [],
