@@ -57,6 +57,9 @@
     },
     "fecha": {
       "type": "date"
+    },
+    "cambioTotal": {
+      "type": "number"
     }
   },
   "validations": [],
