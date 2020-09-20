@@ -28,6 +28,9 @@
     "q10": {
       "type": "number"
     },
+    "q20": {
+      "type": "number"
+    },
     "q25": {
       "type": "number"
     },
