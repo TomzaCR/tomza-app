@@ -22,47 +22,54 @@
     "tipo": {
       "type": "string"
     },
-    "direccion": {
+    "codigo": {
+      "type": "string"
+    },
+    "codigo/fecha": {
       "type": "string"
     },
     "q10": {
-      "type": "number"
-    },
-    "q20": {
-      "type": "number"
-    },
+      "type": "number",
+      "default": 0
+        },
     "q25": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "q25r": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "q30": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "q35": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "q40": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "q45": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "q60": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "q100": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "otro": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "fecha": {
-      "type": "date"
-    },
-    "cambioTotal": {
-      "type": "number"
+      "type": "datetime"
     }
   },
   "validations": [],
