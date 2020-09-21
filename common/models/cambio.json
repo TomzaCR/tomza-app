@@ -31,7 +31,7 @@
     "q10": {
       "type": "number",
       "default": 0
-        },
+    },
     "q25": {
       "type": "number",
       "default": 0
@@ -69,7 +69,7 @@
       "default": 0
     },
     "fecha": {
-      "type": "datetime"
+      "type": "date"
     }
   },
   "validations": [],
