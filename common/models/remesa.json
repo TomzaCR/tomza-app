@@ -26,37 +26,49 @@
       "type": "string"
     },
     "lts": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "q10": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "q20": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "q25": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "q25r": {
-      "type": "number"
-    },
-    "q35": {
-      "type": "number"
-    },
-    "q45": {
-      "type": "number"
-    },
-    "q60": {
-      "type": "number"
-    },
-    "q100": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
     "q30": {
-      "type": "number"
+      "type": "number",
+      "default": 0
     },
+    "q35": {
+      "type": "number",
+      "default": 0
+    },
+
     "q40": {
-      "type": "number"
+      "type": "number",
+      "default": 0
+    },
+    "q45": {
+      "type": "number",
+      "default": 0
+    },
+    "q60": {
+      "type": "number",
+      "default": 0
+    },
+    "q100": {
+      "type": "number",
+      "default": 0
     }
   },
   "validations": [],
