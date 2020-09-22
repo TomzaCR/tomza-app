@@ -25,7 +25,7 @@
     "codigo": {
       "type": "string"
     },
-    "codigo/fecha": {
+    "codigoFecha": {
       "type": "string"
     },
     "q10": {
