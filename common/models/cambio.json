@@ -32,6 +32,10 @@
       "type": "number",
       "default": 0
     },
+    "q20": {
+      "type": "number",
+      "default": 0
+    },
     "q25": {
       "type": "number",
       "default": 0
