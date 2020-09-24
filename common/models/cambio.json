@@ -25,10 +25,14 @@
     "codigo": {
       "type": "string"
     },
-    "codigo/fecha": {
+    "codigoFecha": {
       "type": "string"
     },
     "q10": {
+      "type": "number",
+      "default": 0
+    },
+    "q20": {
       "type": "number",
       "default": 0
     },
