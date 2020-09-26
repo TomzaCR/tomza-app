@@ -29,6 +29,9 @@
     },
     "ruta": {
       "type": "string"
+    },
+    "fechaRuta": {
+      "type": "string"
     }
   },
   "validations": [],
