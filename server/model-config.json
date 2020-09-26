@@ -208,5 +208,9 @@
   "aceptado": {
     "dataSource": "tomza",
     "public": true
+  },
+  "rechazado": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
