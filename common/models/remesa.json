@@ -53,7 +53,6 @@
       "type": "number",
       "default": 0
     },
-
     "q40": {
       "type": "number",
       "default": 0

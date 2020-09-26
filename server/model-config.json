@@ -204,5 +204,9 @@
   "ordencompra": {
     "dataSource": "tomza",
     "public": true
+  },
+  "aceptado": {
+    "dataSource": "tomza",
+    "public": true
   }
 }

@@ -1,0 +1,54 @@
+{
+  "name": "aceptado",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "fecha": {
+      "type": "date"
+    },
+    "ruta": {
+      "type": "number"
+    },
+    "q10": {
+      "type": "number"
+    },
+    "q20": {
+      "type": "number"
+    },
+    "q25": {
+      "type": "number"
+    },
+    "q25r": {
+      "type": "number"
+    },
+    "q30": {
+      "type": "number"
+    },
+    "q35": {
+      "type": "number"
+    },
+    "q40": {
+      "type": "number"
+    },
+    "q60": {
+      "type": "number"
+    },
+    "q100": {
+      "type": "number"
+    },
+    "tipo": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
