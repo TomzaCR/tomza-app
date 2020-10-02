@@ -13,6 +13,9 @@
     "fecha": {
       "type": "date"
     },
+    "cedi": {
+      "type": "string"
+    },
     "q10": {
       "type": "number"
     },
