@@ -212,5 +212,9 @@
   "rechazado": {
     "dataSource": "tomza",
     "public": true
+  },
+  "contrapedido": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
