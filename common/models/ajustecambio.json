@@ -50,6 +50,7 @@
     },
     "lts": {
       "type": "number"
+    }
   },
   "validations": [],
   "relations": {},
