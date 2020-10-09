@@ -47,7 +47,9 @@
     },
     "fecha": {
       "type": "date"
-    }
+    },
+    "lts": {
+      "type": "number"
   },
   "validations": [],
   "relations": {},
