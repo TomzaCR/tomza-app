@@ -216,13 +216,5 @@
   "contrapedido": {
     "dataSource": "tomza",
     "public": true
-  },
-  "ajusteCambios": {
-    "dataSource": "tomza",
-    "public": true
-  },
-  "ajustecambio": {
-    "dataSource": "tomza",
-    "public": true
   }
 }
