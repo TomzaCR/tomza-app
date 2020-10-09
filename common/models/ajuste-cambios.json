@@ -14,44 +14,34 @@
       "type": "number"
     },
     "q10": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "q20": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "q25": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "q25r": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "q30": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "q35": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "q40": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "q45": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "q60": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "q100": {
-      "type": "number",
-      "default": 0
+      "type": "number"
     },
     "comentario": {
       "type": "string"
