@@ -1,0 +1,64 @@
+{
+  "name": "ajusteCambios",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "ruta": {
+      "type": "number"
+    },
+    "q10": {
+      "type": "number",
+      "default": 0
+    },
+    "q20": {
+      "type": "number",
+      "default": 0
+    },
+    "q25": {
+      "type": "number",
+      "default": 0
+    },
+    "q25r": {
+      "type": "number",
+      "default": 0
+    },
+    "q30": {
+      "type": "number",
+      "default": 0
+    },
+    "q35": {
+      "type": "number",
+      "default": 0
+    },
+    "q40": {
+      "type": "number",
+      "default": 0
+    },
+    "q45": {
+      "type": "number",
+      "default": 0
+    },
+    "q60": {
+      "type": "number",
+      "default": 0
+    },
+    "q100": {
+      "type": "number",
+      "default": 0
+    },
+    "comentario": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
