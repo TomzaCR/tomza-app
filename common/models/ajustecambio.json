@@ -1,5 +1,5 @@
 {
-  "name": "ajusteCambios",
+  "name": "ajustecambio",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
