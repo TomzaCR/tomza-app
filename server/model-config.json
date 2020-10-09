@@ -216,5 +216,9 @@
   "contrapedido": {
     "dataSource": "tomza",
     "public": true
+  },
+  "ajustecambio": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
