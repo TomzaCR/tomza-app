@@ -44,6 +44,9 @@
     },
     "comentario": {
       "type": "string"
+    },
+    "fecha": {
+      "type": "date"
     }
   },
   "validations": [],
