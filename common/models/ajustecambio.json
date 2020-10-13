@@ -20,6 +20,9 @@
     },
     "lts": {
       "type": "number"
+    },
+    "cedi": {
+      "type": "string"
     }
   },
   "validations": [],
