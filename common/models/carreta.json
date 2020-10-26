@@ -66,6 +66,9 @@
     },
     "q100": {
       "type": "number"
+    },
+    "comentario": {
+      "type": "string"
     }
   },
   "validations": [],
