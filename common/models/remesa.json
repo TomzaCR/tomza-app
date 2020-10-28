@@ -68,6 +68,9 @@
     "q100": {
       "type": "number",
       "default": 0
+    },
+    "firma": {
+      "type": "string"
     }
   },
   "validations": [],
