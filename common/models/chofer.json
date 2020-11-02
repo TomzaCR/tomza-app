@@ -20,6 +20,9 @@
     },
     "tipo_camion": {
       "type": "number"
+    },
+    "tipo_chofer": {
+      "type": "number"
     }
   },
   "validations": [],
