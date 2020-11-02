@@ -17,12 +17,6 @@
     },
     "unidad_negocio": {
       "type": "string"
-    },
-    "tipo_camion": {
-      "type": "number"
-    },
-    "tipo_chofer": {
-      "type": "number"
     }
   },
   "validations": [],
