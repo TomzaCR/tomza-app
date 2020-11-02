@@ -1,5 +1,6 @@
 'use strict';
 
-module.exports = function(Camion) {
+
+module.exports = function (Camion) {
 
 };
