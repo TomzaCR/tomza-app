@@ -17,6 +17,9 @@
     },
     "unidad_negocio": {
       "type": "string"
+    },
+    "tipo_camion": {
+      "type": "number"
     }
   },
   "validations": [],
