@@ -130,13 +130,13 @@
     "Comentario": {
       "type": "string"
     },
-    "Provincia": {
+    "provincia": {
       "type": "string"
     },
-    "Canton": {
+    "canton": {
       "type": "string"
     },
-    "Distrito": {
+    "distrito": {
       "type": "string"
     },
     "direccion": {
