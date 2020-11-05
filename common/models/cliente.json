@@ -129,18 +129,6 @@
     },
     "Comentario": {
       "type": "string"
-    },
-    "provincia": {
-      "type": "string"
-    },
-    "canton": {
-      "type": "string"
-    },
-    "distrito": {
-      "type": "string"
-    },
-    "direccion": {
-      "type": "string"
     }
   },
   "validations": [],
