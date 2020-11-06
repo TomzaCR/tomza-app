@@ -132,6 +132,15 @@
     },
     "direccion": {
       "type": "string"
+    },
+    "provincia": {
+      "type": "string"
+    },
+    "canton": {
+      "type": "string"
+    },
+    "distrito": {
+      "type": "string"
     }
   },
   "validations": [],
