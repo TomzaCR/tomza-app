@@ -221,11 +221,11 @@
     "dataSource": "tomza",
     "public": true
   },
-<<<<<<< HEAD
   "userClient": {
-=======
+    "dataSource": "tomza",
+    "public": true
+  },
   "clientLocation": {
->>>>>>> b040e915dd1da20f052167f641822aefa7bcb7f6
     "dataSource": "tomza",
     "public": true
   }
