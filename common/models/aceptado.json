@@ -37,6 +37,9 @@
     "q40": {
       "type": "number"
     },
+    "q45": {
+      "type": "number"
+    },
     "q60": {
       "type": "number"
     },

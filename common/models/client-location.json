@@ -1,0 +1,35 @@
+{
+  "name": "clientLocation",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number"
+    },
+    "codClient": {
+      "type": "number"
+    },
+    "nombre": {
+      "type": "string"
+    },
+    "provincia": {
+      "type": "string"
+    },
+    "canton": {
+      "type": "string"
+    },
+    "distrito": {
+      "type": "string"
+    },
+    "direccion": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
