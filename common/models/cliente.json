@@ -130,7 +130,7 @@
     "Comentario": {
       "type": "string"
     },
-    "Periodo": {
+    "PeriodoPago": {
       "type": "string"
     }
   },
