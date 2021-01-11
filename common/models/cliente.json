@@ -129,6 +129,9 @@
     },
     "Comentario": {
       "type": "string"
+    },
+    "Periodo": {
+      "type": "string"
     }
   },
   "validations": [],
