@@ -71,6 +71,36 @@
     },
     "firma": {
       "type": "string"
+    },
+    "q10m": {
+      "type": "number"
+    },
+    "q20m": {
+      "type": "number"
+    },
+    "q25m": {
+      "type": "number"
+    },
+    "q25rm": {
+      "type": "number"
+    },
+    "q35m": {
+      "type": "number"
+    },
+    "q45m": {
+      "type": "number"
+    },
+    "q60m": {
+      "type": "number"
+    },
+    "q100m": {
+      "type": "number"
+    },
+    "q30m": {
+      "type": "number"
+    },
+    "q40m": {
+      "type": "number"
     }
   },
   "validations": [],
