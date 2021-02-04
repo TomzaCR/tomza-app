@@ -60,7 +60,11 @@
       "type": "number",
       "default": 0
     },
-    "q60": {
+    "q50": {
+      "type": "number",
+      "default": 0
+    },
+    "q60r": {
       "type": "number",
       "default": 0
     },

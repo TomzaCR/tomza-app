@@ -19,6 +19,14 @@
     "litrostotales": {
       "type": "string"
     },
+    "q10": {
+      "type": "number",
+      "default": 0
+    },
+    "q20": {
+      "type": "number",
+      "default": 0
+    },
     "q25": {
       "type": "number",
       "default": 0
@@ -27,23 +35,7 @@
       "type": "number",
       "default": 0
     },
-    "q100": {
-      "type": "number",
-      "default": 0
-    },
-    "q20": {
-      "type": "number",
-      "default": 0
-    },
-    "q20r": {
-      "type": "number",
-      "default": 0
-    },
-    "q10": {
-      "type": "number",
-      "default": 0
-    },
-    "q10r": {
+    "q30": {
       "type": "number",
       "default": 0
     },
@@ -51,7 +43,7 @@
       "type": "number",
       "default": 0
     },
-    "q35r": {
+    "q40": {
       "type": "number",
       "default": 0
     },
@@ -59,11 +51,7 @@
       "type": "number",
       "default": 0
     },
-    "q45r": {
-      "type": "number",
-      "default": 0
-    },
-    "q60": {
+    "q50": {
       "type": "number",
       "default": 0
     },
@@ -71,11 +59,7 @@
       "type": "number",
       "default": 0
     },
-    "q30": {
-      "type": "number",
-      "default": 0
-    },
-    "q40": {
+    "q100": {
       "type": "number",
       "default": 0
     }
