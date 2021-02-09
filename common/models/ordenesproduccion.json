@@ -65,7 +65,7 @@
     },
     "recargaCamion": {
       "type": "boolean",
-      "default": false
+      "default": 0
     }
   },
   "validations": [],
