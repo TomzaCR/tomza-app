@@ -62,6 +62,10 @@
     "q100": {
       "type": "number",
       "default": 0
+    },
+    "recargaCamion": {
+      "type": "boolean",
+      "default": 0
     }
   },
   "validations": [],
