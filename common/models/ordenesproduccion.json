@@ -63,9 +63,9 @@
       "type": "number",
       "default": 0
     },
-    "recargaCamion": {
-      "type": "number",
-      "default": 0
+    "tipo": {
+      "type": "string",
+      "default": "Orden de Produccion"
     }
   },
   "validations": [],
