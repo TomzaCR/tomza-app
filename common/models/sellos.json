@@ -1,0 +1,31 @@
+{
+    "name": "sellos",
+    "base": "PersistedModel",
+    "idInjection": true,
+    "options": {
+      "validateUpsert": true
+    },
+    "properties": {
+      "id": {
+        "type": "number",
+        "required": true
+      },
+      "consecutivoIni": {
+        "type": "number"
+      },
+      "consecutivoFin": {
+        "type": "number"
+      },
+      "ruta": {
+        "type": "number"
+      },
+      "fecha": {
+        "type": "date"
+      }
+    },
+    "validations": [],
+    "relations": {},
+    "acls": [],
+    "methods": {}
+  }
+  
