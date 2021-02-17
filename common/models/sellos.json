@@ -1,31 +1,30 @@
 {
-    "name": "sellos",
-    "base": "PersistedModel",
-    "idInjection": true,
-    "options": {
-      "validateUpsert": true
+  "name": "sellos",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
     },
-    "properties": {
-      "id": {
-        "type": "number",
-        "required": true
-      },
-      "consecutivoIni": {
-        "type": "number"
-      },
-      "consecutivoFin": {
-        "type": "number"
-      },
-      "ruta": {
-        "type": "number"
-      },
-      "fecha": {
-        "type": "date"
-      }
+    "consecutivoIni": {
+      "type": "number"
     },
-    "validations": [],
-    "relations": {},
-    "acls": [],
-    "methods": {}
-  }
-  
+    "consecutivoFin": {
+      "type": "number"
+    },
+    "ruta": {
+      "type": "number"
+    },
+    "fecha": {
+      "type": "date"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

@@ -1,5 +1,5 @@
 'use strict';
 
-module.exports = function(sellos) {
+module.exports = function(Sellos) {
 
 };
