@@ -228,5 +228,9 @@
   "clientLocation": {
     "dataSource": "tomza",
     "public": true
+  },
+  "sellos": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
