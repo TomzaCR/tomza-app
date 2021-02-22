@@ -17,10 +17,16 @@
       "type": "number"
     },
     "ruta": {
-      "type": "number"
+      "type": "string"
     },
     "fecha": {
       "type": "date"
+    },
+    "tipo": {
+      "type": "string"
+    },
+    "responsable": {
+      "type": "string"
     }
   },
   "validations": [],
