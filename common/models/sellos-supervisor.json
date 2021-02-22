@@ -1,5 +1,5 @@
 {
-  "name": "sellos",
+  "name": "sellosSupervisor",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
@@ -16,20 +16,17 @@
     "consecutivoFin": {
       "type": "number"
     },
-    "ruta": {
+    "sede": {
       "type": "string"
     },
-    "fecha": {
-      "type": "date"
-    },
-    "tipo": {
+    "supervisor": {
       "type": "string"
     },
     "responsable": {
       "type": "string"
     },
-    "supervisor": {
-      "type": "string"
+    "fecha": {
+      "type": "date"
     }
   },
   "validations": [],
