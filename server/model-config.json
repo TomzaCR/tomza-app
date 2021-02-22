@@ -232,5 +232,9 @@
   "sellos": {
     "dataSource": "tomza",
     "public": true
+  },
+  "sellosSupervisor": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
