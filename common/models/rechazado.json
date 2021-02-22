@@ -16,6 +16,9 @@
     "ruta": {
       "type": "number"
     },
+    "nombre": {
+      "type": "string"
+    },
     "q10": {
       "type": "number"
     },
