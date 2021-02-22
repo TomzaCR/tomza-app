@@ -17,7 +17,7 @@
       "type": "number"
     },
     "nombre": {
-      "type": "number"
+      "type": "string"
     },
     "q10": {
       "type": "number"
