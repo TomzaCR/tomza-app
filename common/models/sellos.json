@@ -28,8 +28,11 @@
     "responsable": {
       "type": "string"
     },
-    "supervisor": {
-      "type": "string"
+    "sellosTotal": {
+      "type": "number"
+    },
+    "sellosDisp": {
+      "type": "number"
     }
   },
   "validations": [],
