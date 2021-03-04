@@ -16,6 +16,9 @@
     "consecutivoFin": {
       "type": "number"
     },
+    "tipo": {
+      "type": "string"
+    },
     "sede": {
       "type": "string"
     },
