@@ -54,6 +54,9 @@
     },
     "tipo": {
       "type": "string"
+    },
+    "estado": {
+      "type": "number"
     }
   },
   "validations": [],
