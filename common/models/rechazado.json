@@ -57,7 +57,11 @@
     },
     "comentario": {
       "type": "string"
+    },
+    "estado": {
+      "type": "number"
     }
+    
   },
   "validations": [],
   "relations": {},
