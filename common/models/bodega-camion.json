@@ -28,15 +28,7 @@
       "type": "string",
       "default": 0
     },
-    "q10r": {
-      "type": "string",
-      "default": 0
-    },
     "q20": {
-      "type": "string",
-      "default": 0
-    },
-    "q20r": {
       "type": "string",
       "default": 0
     },
@@ -48,11 +40,11 @@
       "type": "string",
       "default": 0
     },
-    "q35": {
+    "q30": {
       "type": "string",
       "default": 0
     },
-    "q35r": {
+    "q35": {
       "type": "string",
       "default": 0
     },
@@ -64,11 +56,11 @@
       "type": "string",
       "default": 0
     },
-    "q60": {
+    "q50": {
       "type": "string",
       "default": 0
     },
-    "q60r": {
+    "q60": {
       "type": "string",
       "default": 0
     },

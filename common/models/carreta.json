@@ -25,13 +25,7 @@
     "q10": {
       "type": "number"
     },
-    "q10r": {
-      "type": "number"
-    },
     "q20": {
-      "type": "number"
-    },
-    "q20r": {
       "type": "number"
     },
     "q25": {
@@ -46,22 +40,16 @@
     "q35": {
       "type": "number"
     },
-    "q35r": {
-      "type": "number"
-    },
     "q40": {
       "type": "number"
     },
     "q45": {
       "type": "number"
     },
-    "q45r": {
+    "q50": {
       "type": "number"
     },
     "q60": {
-      "type": "number"
-    },
-    "q60r": {
       "type": "number"
     },
     "q100": {
