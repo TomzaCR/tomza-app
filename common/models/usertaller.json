@@ -1,0 +1,30 @@
+{
+  "name": "usertaller",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "name": {
+      "type": "string"
+    },
+    "user": {
+      "type": "string"
+    },
+    "pass": {
+      "type": "string"
+    },
+    "rol": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
