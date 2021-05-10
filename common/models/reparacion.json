@@ -1,0 +1,42 @@
+{
+  "name": "reparacion",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "cedi": {
+      "type": "string"
+    },
+    "idCamion": {
+      "type": "number"
+    },
+    "reporte": {
+      "type": "string"
+    },
+    "entrada": {
+      "type": "string"
+    },
+    "salida": {
+      "type": "string"
+    },
+    "aprobado": {
+      "type": "number"
+    },
+    "ruta": {
+      "type": "number"
+    },
+    "repuestos": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

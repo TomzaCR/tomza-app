@@ -240,5 +240,9 @@
   "usertaller": {
     "dataSource": "tomza",
     "public": true
+  },
+  "reparacion": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
