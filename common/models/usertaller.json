@@ -21,6 +21,9 @@
     },
     "rol": {
       "type": "string"
+    },
+    "cedi": {
+      "type": "string"
     }
   },
   "validations": [],
