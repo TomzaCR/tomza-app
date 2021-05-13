@@ -23,6 +23,15 @@
     },
     "capacidad": {
       "type": "string"
+    },
+    "kmInicial": {
+      "type": "number"
+    },
+    "kmTotal": {
+      "type": "number"
+    },
+    "kmReporte": {
+      "type": "number"
     }
   },
   "validations": [],
