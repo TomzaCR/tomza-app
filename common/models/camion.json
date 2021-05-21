@@ -32,6 +32,9 @@
     },
     "kmReporte": {
       "type": "number"
+    },
+    "rtv": {
+      "type": "number"
     }
   },
   "validations": [],
