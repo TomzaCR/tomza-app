@@ -34,7 +34,7 @@
       "type": "number"
     },
     "rtv": {
-      "type": "number"
+      "type": "string"
     }
   },
   "validations": [],
