@@ -20,7 +20,7 @@
       "type": "string"
     },
     "entrada": {
-      "type": "date"
+      "type": "string"
     },
     "salida": {
       "type": "string"
