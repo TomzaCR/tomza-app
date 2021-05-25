@@ -35,6 +35,9 @@
     },
     "rtv": {
       "type": "string"
+    },
+    "tc": {
+      "type": "string"
     }
   },
   "validations": [],
