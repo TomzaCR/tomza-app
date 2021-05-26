@@ -38,6 +38,9 @@
     },
     "tc": {
       "type": "string"
+    },
+    "jue": {
+      "type": "string"
     }
   },
   "validations": [],
