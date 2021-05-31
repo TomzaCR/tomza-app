@@ -1,0 +1,30 @@
+{
+  "name": "cambioAceite",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "placa": {
+      "type": "string"
+    },
+    "fecha": {
+      "type": "date"
+    },
+    "kmInicial": {
+      "type": "number"
+    },
+    "kmFinal": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
