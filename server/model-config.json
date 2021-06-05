@@ -248,9 +248,5 @@
   "cambioAceite": {
     "dataSource": "tomza",
     "public": true
-  },
-  "bitacoraTaller": {
-    "dataSource": "tomza",
-    "public": true
   }
 }
