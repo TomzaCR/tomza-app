@@ -11,7 +11,7 @@
       "required": true
     },
     "cedi": {
-      "type": "string"
+      "type": "number"
     },
     "idCamion": {
       "type": "number"
