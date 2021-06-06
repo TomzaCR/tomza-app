@@ -14,7 +14,7 @@
       "type": "number"
     },
     "idCamion": {
-      "type": "number"
+      "type": "string"
     },
     "reporte": {
       "type": "string"
