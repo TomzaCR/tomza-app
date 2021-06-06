@@ -30,15 +30,15 @@
     "kmTotal": {
       "type": "number"
     },
-    "kmReporte": {
-      "type": "number"
-    },
     "rtv": {
       "type": "string"
     },
     "tc": {
       "type": "string"
-    }
+    },
+    "cambio": {
+      "type": "number"
+    }    
   },
   "validations": [],
   "relations": {},
