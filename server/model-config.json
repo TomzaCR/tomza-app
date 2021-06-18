@@ -252,5 +252,9 @@
   "bitacoraTaller": {
     "dataSource": "tomza",
     "public": true
+  },
+  "bod_combustible": {
+    "dataSource": "tomza",
+    "public": true
   }
 }

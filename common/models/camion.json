@@ -38,7 +38,7 @@
     },
     "cambio": {
       "type": "number"
-    }    
+    }
   },
   "validations": [],
   "relations": {},

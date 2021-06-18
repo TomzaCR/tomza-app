@@ -1,0 +1,27 @@
+{
+  "name": "bod_combustible",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "cedi": {
+      "type": "string"
+    },
+    "cap_max": {
+      "type": "number"
+    },
+    "cap_actual": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
