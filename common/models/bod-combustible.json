@@ -16,6 +16,9 @@
     "cap_max": {
       "type": "number"
     },
+    "cap_min": {
+      "type": "number"
+    },
     "cap_actual": {
       "type": "number"
     }
