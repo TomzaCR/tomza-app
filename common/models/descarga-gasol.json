@@ -1,0 +1,33 @@
+{
+  "name": "descarga_gasol",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "number",
+      "required": true
+    },
+    "placa_camion": {
+      "type": "string"
+    },
+    "fecha": {
+      "type": "date"
+    },
+    "ruta": {
+      "type": "number"
+    },
+    "descarga": {
+      "type": "number"
+    },
+    "cedi": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

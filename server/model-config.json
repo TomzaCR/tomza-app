@@ -256,5 +256,9 @@
   "bod_combustible": {
     "dataSource": "tomza",
     "public": true
+  },
+  "descarga_gasol": {
+    "dataSource": "tomza",
+    "public": true
   }
 }
