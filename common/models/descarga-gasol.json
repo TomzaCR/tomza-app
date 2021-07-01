@@ -24,6 +24,9 @@
     },
     "cedi": {
       "type": "string"
+    },
+    "tipo": {
+      "type": "string"
     }
   },
   "validations": [],
